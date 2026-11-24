@@ -1,0 +1,4694 @@
+{
+  "schema": 4,
+  "updatedAt": 1795480377481,
+  "servers": [
+    {
+      "id": "srv_pn2n58hkvv",
+      "name": "RedeCanais",
+      "url": "http://ooo.fo",
+      "hostKey": "ooo.fo",
+      "active": true,
+      "enabled": true,
+      "isOpenServer": false,
+      "lockFolders": true,
+      "updatedAt": 1795480377481,
+      "folders": {
+        "movies": [
+          {
+            "order": 0,
+            "key": "f_71sbguukzj",
+            "id": "24188",
+            "name": "★RC | Lançamentos",
+            "originalName": "★RC | Lançamentos",
+            "alias": "Lançamentos",
+            "displayName": "Lançamentos",
+            "hidden": false
+          },
+          {
+            "order": 1,
+            "key": "f_1q9imvukzk",
+            "id": "14226",
+            "name": "★RC | Apple TV+",
+            "originalName": "★RC | Apple TV+",
+            "alias": "Apple TV+",
+            "displayName": "Apple TV+",
+            "hidden": false
+          },
+          {
+            "order": 2,
+            "key": "f_1bzg71ukzk",
+            "id": "14223",
+            "name": "★RC | Amazon Prime Video",
+            "originalName": "★RC | Amazon Prime Video",
+            "alias": "Amazon Prime Video",
+            "displayName": "Amazon Prime Video",
+            "hidden": false
+          },
+          {
+            "order": 3,
+            "key": "f_qlp02uukzk",
+            "id": "15105",
+            "name": "★RC | Discovery+",
+            "originalName": "★RC | Discovery+",
+            "alias": "Discovery+",
+            "displayName": "Discovery+",
+            "hidden": false
+          },
+          {
+            "order": 4,
+            "key": "f_1r4qu0ukzk",
+            "id": "14221",
+            "name": "★RC | Disney+",
+            "originalName": "★RC | Disney+",
+            "alias": "Disney+",
+            "displayName": "Disney+",
+            "hidden": false
+          },
+          {
+            "order": 5,
+            "key": "f_8f81a2b1lw",
+            "id": "14224",
+            "name": "★RC | Globoplay + Canais Globo",
+            "originalName": "★RC | Globoplay + Canais Globo",
+            "alias": "Globoplay",
+            "displayName": "Globoplay",
+            "hidden": false,
+            "mergedGroupId": "grp_ehl3w8yooz"
+          },
+          {
+            "order": 6,
+            "key": "f_21pokoukzk",
+            "id": "14225",
+            "name": "★RC | HBO Max",
+            "originalName": "★RC | HBO Max",
+            "alias": "HBO Max",
+            "displayName": "HBO Max",
+            "hidden": false
+          },
+          {
+            "order": 7,
+            "key": "f_335sxwukzk",
+            "id": "17513",
+            "name": "★RC | Lionsgate+",
+            "originalName": "★RC | Lionsgate+",
+            "alias": "Lionsgate+",
+            "displayName": "Lionsgate+",
+            "hidden": false
+          },
+          {
+            "order": 8,
+            "key": "f_5y524uukzk",
+            "id": "14222",
+            "name": "★RC | Netflix",
+            "originalName": "★RC | Netflix",
+            "alias": "Netflix",
+            "displayName": "Netflix",
+            "hidden": false
+          },
+          {
+            "order": 9,
+            "key": "f_tm6640ukzk",
+            "id": "14919",
+            "name": "★RC | Paramount+",
+            "originalName": "★RC | Paramount+",
+            "alias": "Paramount+",
+            "displayName": "Paramount+",
+            "hidden": false
+          },
+          {
+            "order": 10,
+            "key": "f_8tzv30b1lw",
+            "id": "2516",
+            "name": "★RC | Dublado | Ação",
+            "originalName": "★RC | Dublado | Ação",
+            "alias": "Ação",
+            "displayName": "Ação",
+            "hidden": false,
+            "mergedGroupId": "grp_tsnqtf8m95"
+          },
+          {
+            "order": 11,
+            "key": "f_isndqsb1lw",
+            "id": "3668",
+            "name": "★RC | Nacional | Ação",
+            "originalName": "★RC | Nacional | Ação",
+            "alias": "Ação",
+            "displayName": "Ação",
+            "hidden": false,
+            "mergedGroupId": "grp_tsnqtf8m95"
+          },
+          {
+            "order": 12,
+            "key": "f_ne3qngb1lw",
+            "id": "2517",
+            "name": "★RC | Dublado | Animação",
+            "originalName": "★RC | Dublado | Animação",
+            "alias": "Animação",
+            "displayName": "Animação",
+            "hidden": false,
+            "mergedGroupId": "grp_sjb9gbn5u2"
+          },
+          {
+            "order": 13,
+            "key": "f_0b882lb1lw",
+            "id": "5734",
+            "name": "★RC | Nacional | Animação",
+            "originalName": "★RC | Nacional | Animação",
+            "alias": "Animação",
+            "displayName": "Animação",
+            "hidden": false,
+            "mergedGroupId": "grp_sjb9gbn5u2"
+          },
+          {
+            "order": 14,
+            "key": "f_68clv9b1lw",
+            "id": "2572",
+            "name": "★RC | Dublado | Anime",
+            "originalName": "★RC | Dublado | Anime",
+            "alias": "Anime",
+            "displayName": "Anime",
+            "hidden": false
+          },
+          {
+            "order": 15,
+            "key": "f_w9depgb1lw",
+            "id": "2518",
+            "name": "★RC | Dublado | Aventura",
+            "originalName": "★RC | Dublado | Aventura",
+            "alias": "Aventura",
+            "displayName": "Aventura",
+            "hidden": false,
+            "mergedGroupId": "grp_kikcx27uvv"
+          },
+          {
+            "order": 16,
+            "key": "f_8frmfmb1lw",
+            "id": "3669",
+            "name": "★RC | Nacional | Aventura",
+            "originalName": "★RC | Nacional | Aventura",
+            "alias": "Aventura",
+            "displayName": "Aventura",
+            "hidden": false,
+            "mergedGroupId": "grp_kikcx27uvv"
+          },
+          {
+            "order": 17,
+            "key": "f_tuahvvb1lw",
+            "id": "2773",
+            "name": "★RC | Dublado | Biografia",
+            "originalName": "★RC | Dublado | Biografia",
+            "alias": "Biografia",
+            "displayName": "Biografia",
+            "hidden": false,
+            "mergedGroupId": "grp_7yo35f7lov"
+          },
+          {
+            "order": 18,
+            "key": "f_9nf72nb1lw",
+            "id": "3670",
+            "name": "★RC | Nacional | Biografia",
+            "originalName": "★RC | Nacional | Biografia",
+            "alias": "Biografia",
+            "displayName": "Biografia",
+            "hidden": false,
+            "mergedGroupId": "grp_7yo35f7lov"
+          },
+          {
+            "order": 19,
+            "key": "f_060pqrb1lw",
+            "id": "2519",
+            "name": "★RC | Dublado | Comédia",
+            "originalName": "★RC | Dublado | Comédia",
+            "alias": "Comédia",
+            "displayName": "Comédia",
+            "hidden": false,
+            "mergedGroupId": "grp_5tx8kh7bp8"
+          },
+          {
+            "order": 20,
+            "key": "f_y97yfgb1lw",
+            "id": "3671",
+            "name": "★RC | Nacional | Comédia",
+            "originalName": "★RC | Nacional | Comédia",
+            "alias": "Comédia",
+            "displayName": "Comédia",
+            "hidden": false,
+            "mergedGroupId": "grp_5tx8kh7bp8"
+          },
+          {
+            "order": 21,
+            "key": "f_8iwrcnb1lw",
+            "id": "2520",
+            "name": "★RC | Dublado | Comédia Romântica",
+            "originalName": "★RC | Dublado | Comédia Romântica",
+            "alias": "Comédia Romântica",
+            "displayName": "Comédia Romântica",
+            "hidden": false
+          },
+          {
+            "order": 22,
+            "key": "f_0kv56kb1lw",
+            "id": "2521",
+            "name": "★RC | Dublado | Documentário",
+            "originalName": "★RC | Dublado | Documentário",
+            "alias": "Documentário",
+            "displayName": "Documentário",
+            "hidden": false,
+            "mergedGroupId": "grp_xls12w6vav"
+          },
+          {
+            "order": 23,
+            "key": "f_dtizegb1lw",
+            "id": "3672",
+            "name": "★RC | Nacional | Documentário",
+            "originalName": "★RC | Nacional | Documentário",
+            "alias": "Documentário",
+            "displayName": "Documentário",
+            "hidden": false,
+            "mergedGroupId": "grp_xls12w6vav"
+          },
+          {
+            "order": 24,
+            "key": "f_r5hhvcb1lw",
+            "id": "24389",
+            "name": "★RC | Doramas",
+            "originalName": "★RC | Doramas",
+            "alias": "Doramas",
+            "displayName": "Doramas",
+            "hidden": false,
+            "mergedGroupId": "grp_7kh46a1r0h"
+          },
+          {
+            "order": 25,
+            "key": "f_4a6m72b1lw",
+            "id": "2522",
+            "name": "★RC | Dublado | Drama",
+            "originalName": "★RC | Dublado | Drama",
+            "alias": "Drama",
+            "displayName": "Drama",
+            "hidden": false,
+            "mergedGroupId": "grp_8q4ftz6lnl"
+          },
+          {
+            "order": 26,
+            "key": "f_gjs1ukb1lw",
+            "id": "3673",
+            "name": "★RC | Nacional | Drama",
+            "originalName": "★RC | Nacional | Drama",
+            "alias": "Drama",
+            "displayName": "Drama",
+            "hidden": false,
+            "mergedGroupId": "grp_8q4ftz6lnl"
+          },
+          {
+            "order": 27,
+            "key": "f_ijdu6fb1lw",
+            "id": "2737",
+            "name": "★RC | Dublado | Erótico",
+            "originalName": "★RC | Dublado | Erótico",
+            "alias": "Erótico",
+            "displayName": "Erótico",
+            "hidden": false,
+            "mergedGroupId": "grp_dp1ruhxg1r"
+          },
+          {
+            "order": 28,
+            "key": "f_bos5a4b1lw",
+            "id": "9674",
+            "name": "★RC | Nacional | Erótico",
+            "originalName": "★RC | Nacional | Erótico",
+            "alias": "Erótico",
+            "displayName": "Erótico",
+            "hidden": false,
+            "mergedGroupId": "grp_dp1ruhxg1r"
+          },
+          {
+            "order": 29,
+            "key": "f_zimjtkb1lw",
+            "id": "2687",
+            "name": "★RC | Legendado | Erótico",
+            "originalName": "★RC | Legendado | Erótico",
+            "alias": "Erótico",
+            "displayName": "Erótico",
+            "hidden": false,
+            "mergedGroupId": "grp_dp1ruhxg1r"
+          },
+          {
+            "order": 30,
+            "key": "f_fr9uilb1lw",
+            "id": "2581",
+            "name": "★RC | Dublado | Épico",
+            "originalName": "★RC | Dublado | Épico",
+            "alias": "Épico",
+            "displayName": "Épico",
+            "hidden": false,
+            "mergedGroupId": "grp_lhp2cw68f7"
+          },
+          {
+            "order": 31,
+            "key": "f_od5d47b1lw",
+            "id": "3788",
+            "name": "★RC | Nacional | Épico",
+            "originalName": "★RC | Nacional | Épico",
+            "alias": "Épico",
+            "displayName": "Épico",
+            "hidden": false,
+            "mergedGroupId": "grp_lhp2cw68f7"
+          },
+          {
+            "order": 32,
+            "key": "f_bg6n3ab1lw",
+            "id": "7721",
+            "name": "★RC | Dublado | Extras",
+            "originalName": "★RC | Dublado | Extras",
+            "alias": "Extras",
+            "displayName": "Extras",
+            "hidden": false
+          },
+          {
+            "order": 33,
+            "key": "f_yjrbnob1lw",
+            "id": "2684",
+            "name": "★RC | Dublado | Família",
+            "originalName": "★RC | Dublado | Família",
+            "alias": "Família",
+            "displayName": "Família",
+            "hidden": false,
+            "mergedGroupId": "grp_mhqtcd5woi"
+          },
+          {
+            "order": 34,
+            "key": "f_rxahehb1lw",
+            "id": "3787",
+            "name": "★RC | Nacional | Família",
+            "originalName": "★RC | Nacional | Família",
+            "alias": "Família",
+            "displayName": "Família",
+            "hidden": false,
+            "mergedGroupId": "grp_mhqtcd5woi"
+          },
+          {
+            "order": 35,
+            "key": "f_r6khlcb1lw",
+            "id": "2583",
+            "name": "★RC | Dublado | Fantasia",
+            "originalName": "★RC | Dublado | Fantasia",
+            "alias": "Fantasia",
+            "displayName": "Fantasia",
+            "hidden": false,
+            "mergedGroupId": "grp_itdevq5piu"
+          },
+          {
+            "order": 36,
+            "key": "f_dwx4r4b1lw",
+            "id": "3677",
+            "name": "★RC | Nacional | Fantasia",
+            "originalName": "★RC | Nacional | Fantasia",
+            "alias": "Fantasia",
+            "displayName": "Fantasia",
+            "hidden": false,
+            "mergedGroupId": "grp_itdevq5piu"
+          },
+          {
+            "order": 37,
+            "key": "f_oy510eb1lw",
+            "id": "2523",
+            "name": "★RC | Dublado | Faroeste",
+            "originalName": "★RC | Dublado | Faroeste",
+            "alias": "Faroeste",
+            "displayName": "Faroeste",
+            "hidden": false,
+            "mergedGroupId": "grp_3oits93k42"
+          },
+          {
+            "order": 38,
+            "key": "f_vj769ib1lw",
+            "id": "8142",
+            "name": "★RC | Nacional | Faroeste",
+            "originalName": "★RC | Nacional | Faroeste",
+            "alias": "Faroeste",
+            "displayName": "Faroeste",
+            "hidden": false,
+            "mergedGroupId": "grp_3oits93k42"
+          },
+          {
+            "order": 39,
+            "key": "f_uy1d8jb1lw",
+            "id": "2524",
+            "name": "★RC | Dublado | Ficção Científica",
+            "originalName": "★RC | Dublado | Ficção Científica",
+            "alias": "Ficção",
+            "displayName": "Ficção",
+            "hidden": false,
+            "mergedGroupId": "grp_ulo51onqul"
+          },
+          {
+            "order": 40,
+            "key": "f_rsqe1jb1lw",
+            "id": "5733",
+            "name": "★RC | Nacional | Ficção Científica",
+            "originalName": "★RC | Nacional | Ficção Científica",
+            "alias": "Ficção",
+            "displayName": "Ficção",
+            "hidden": false,
+            "mergedGroupId": "grp_ulo51onqul"
+          },
+          {
+            "order": 41,
+            "key": "f_1l7a2ab1lw",
+            "id": "2584",
+            "name": "★RC | Dublado | Guerra",
+            "originalName": "★RC | Dublado | Guerra",
+            "alias": "Guerra",
+            "displayName": "Guerra",
+            "hidden": false,
+            "mergedGroupId": "grp_ushqev0szj"
+          },
+          {
+            "order": 42,
+            "key": "f_bsqzbjb1lw",
+            "id": "3674",
+            "name": "★RC | Nacional | Guerra",
+            "originalName": "★RC | Nacional | Guerra",
+            "alias": "Guerra",
+            "displayName": "Guerra",
+            "hidden": false,
+            "mergedGroupId": "grp_ushqev0szj"
+          },
+          {
+            "order": 43,
+            "key": "f_7bf4a1b1lw",
+            "id": "2595",
+            "name": "★RC | Dublado | Histórico",
+            "originalName": "★RC | Dublado | Histórico",
+            "alias": "Histórico",
+            "displayName": "Histórico",
+            "hidden": false,
+            "mergedGroupId": "grp_mrdh0v15qt"
+          },
+          {
+            "order": 44,
+            "key": "f_s4jnscb1lw",
+            "id": "3675",
+            "name": "★RC | Nacional | Histórico",
+            "originalName": "★RC | Nacional | Histórico",
+            "alias": "Histórico",
+            "displayName": "Histórico",
+            "hidden": false,
+            "mergedGroupId": "grp_mrdh0v15qt"
+          },
+          {
+            "order": 45,
+            "key": "f_euk50yb1lw",
+            "id": "2525",
+            "name": "★RC | Dublado | Musical",
+            "originalName": "★RC | Dublado | Musical",
+            "alias": "Musical",
+            "displayName": "Musical",
+            "hidden": false,
+            "mergedGroupId": "grp_lm4rsl0jar"
+          },
+          {
+            "order": 46,
+            "key": "f_oww90eb1lw",
+            "id": "5010",
+            "name": "★RC | Nacional | Musical",
+            "originalName": "★RC | Nacional | Musical",
+            "alias": "Musical",
+            "displayName": "Musical",
+            "hidden": false,
+            "mergedGroupId": "grp_lm4rsl0jar"
+          },
+          {
+            "order": 47,
+            "key": "f_d83jgbb1lw",
+            "id": "2693",
+            "name": "★RC | Dublado | Policial",
+            "originalName": "★RC | Dublado | Policial",
+            "alias": "Policial",
+            "displayName": "Policial",
+            "hidden": false,
+            "mergedGroupId": "grp_sdiz0x00ee"
+          },
+          {
+            "order": 48,
+            "key": "f_jk2fbkb1lw",
+            "id": "3807",
+            "name": "★RC | Nacional | Policial",
+            "originalName": "★RC | Nacional | Policial",
+            "alias": "Policial",
+            "displayName": "Policial",
+            "hidden": false,
+            "mergedGroupId": "grp_sdiz0x00ee"
+          },
+          {
+            "order": 49,
+            "key": "f_6xjrcub1lw",
+            "id": "6669",
+            "name": "★RC | Dublado | Religioso",
+            "originalName": "★RC | Dublado | Religioso",
+            "alias": "Religioso",
+            "displayName": "Religioso",
+            "hidden": false,
+            "mergedGroupId": "grp_h4t5e8zq4g"
+          },
+          {
+            "order": 50,
+            "key": "f_vtno50b1lw",
+            "id": "6670",
+            "name": "★RC | Nacional | Religioso",
+            "originalName": "★RC | Nacional | Religioso",
+            "alias": "Religioso",
+            "displayName": "Religioso",
+            "hidden": false,
+            "mergedGroupId": "grp_h4t5e8zq4g"
+          },
+          {
+            "order": 51,
+            "key": "f_oxo5h6b1lw",
+            "id": "2526",
+            "name": "★RC | Dublado | Romance",
+            "originalName": "★RC | Dublado | Romance",
+            "alias": "Romance",
+            "displayName": "Romance",
+            "hidden": false,
+            "mergedGroupId": "grp_qpyuv6zdcq"
+          },
+          {
+            "order": 52,
+            "key": "f_5x8pxpb1lw",
+            "id": "3676",
+            "name": "★RC | Nacional | Romance",
+            "originalName": "★RC | Nacional | Romance",
+            "alias": "Romance",
+            "displayName": "Romance",
+            "hidden": false,
+            "mergedGroupId": "grp_qpyuv6zdcq"
+          },
+          {
+            "order": 53,
+            "key": "f_gs7lspb1lw",
+            "id": "2688",
+            "name": "★RC | Dublado | Show",
+            "originalName": "★RC | Dublado | Show",
+            "alias": "Show",
+            "displayName": "Show",
+            "hidden": false
+          },
+          {
+            "order": 54,
+            "key": "f_5j64wnb1lw",
+            "id": "2527",
+            "name": "★RC | Dublado | Suspense",
+            "originalName": "★RC | Dublado | Suspense",
+            "alias": "Suspense",
+            "displayName": "Suspense",
+            "hidden": false,
+            "mergedGroupId": "grp_hb1i7pyrnw"
+          },
+          {
+            "order": 55,
+            "key": "f_rof08zb1lw",
+            "id": "3808",
+            "name": "★RC | Nacional | Suspense",
+            "originalName": "★RC | Nacional | Suspense",
+            "alias": "Suspense",
+            "displayName": "Suspense",
+            "hidden": false,
+            "mergedGroupId": "grp_hb1i7pyrnw"
+          },
+          {
+            "order": 56,
+            "key": "f_pmxofzb1lw",
+            "id": "2528",
+            "name": "★RC | Dublado | Terror",
+            "originalName": "★RC | Dublado | Terror",
+            "alias": "Terror",
+            "displayName": "Terror",
+            "hidden": false,
+            "mergedGroupId": "grp_xa6rbuyc3i"
+          },
+          {
+            "order": 57,
+            "key": "f_qtqp47b1lw",
+            "id": "5424",
+            "name": "★RC | Nacional | Terror",
+            "originalName": "★RC | Nacional | Terror",
+            "alias": "Terror",
+            "displayName": "Terror",
+            "hidden": false,
+            "mergedGroupId": "grp_xa6rbuyc3i"
+          },
+          {
+            "order": 58,
+            "key": "f_kx2a9gb1lw",
+            "id": "2558",
+            "name": "★RC | Legendado | Ação",
+            "originalName": "★RC | Legendado | Ação",
+            "alias": "Legendado | Ação",
+            "displayName": "Legendado | Ação",
+            "hidden": false
+          },
+          {
+            "order": 59,
+            "key": "f_1606mrb1lw",
+            "id": "2573",
+            "name": "★RC | Legendado | Animação",
+            "originalName": "★RC | Legendado | Animação",
+            "alias": "Legendado | Animação",
+            "displayName": "Legendado | Animação",
+            "hidden": false
+          },
+          {
+            "order": 60,
+            "key": "f_6zfx4pb1lw",
+            "id": "2559",
+            "name": "★RC | Legendado | Anime",
+            "originalName": "★RC | Legendado | Anime",
+            "alias": "Legendado | Anime",
+            "displayName": "Legendado | Anime",
+            "hidden": false
+          },
+          {
+            "order": 61,
+            "key": "f_qhpp8cb1lw",
+            "id": "2560",
+            "name": "★RC | Legendado | Aventura",
+            "originalName": "★RC | Legendado | Aventura",
+            "alias": "Legendado | Aventura",
+            "displayName": "Legendado | Aventura",
+            "hidden": false
+          },
+          {
+            "order": 62,
+            "key": "f_sh286qb1lw",
+            "id": "4454",
+            "name": "★RC | Legendado | Biografia",
+            "originalName": "★RC | Legendado | Biografia",
+            "alias": "Legendado | Biografia",
+            "displayName": "Legendado | Biografia",
+            "hidden": false
+          },
+          {
+            "order": 63,
+            "key": "f_nhovsib1lw",
+            "id": "2561",
+            "name": "★RC | Legendado | Comédia",
+            "originalName": "★RC | Legendado | Comédia",
+            "alias": "Legendado | Comédia",
+            "displayName": "Legendado | Comédia",
+            "hidden": false
+          },
+          {
+            "order": 64,
+            "key": "f_h9lpkcb1lw",
+            "id": "2562",
+            "name": "★RC | Legendado | Comédia Romântica",
+            "originalName": "★RC | Legendado | Comédia Romântica",
+            "alias": "Legendado | Comédia Romântica",
+            "displayName": "Legendado | Comédia Romântica",
+            "hidden": false
+          },
+          {
+            "order": 65,
+            "key": "f_ok2dj7b1lw",
+            "id": "2563",
+            "name": "★RC | Legendado | Documentário",
+            "originalName": "★RC | Legendado | Documentário",
+            "alias": "Legendado | Documentário",
+            "displayName": "Legendado | Documentário",
+            "hidden": false
+          },
+          {
+            "order": 66,
+            "key": "f_y8lfk7b1lw",
+            "id": "2564",
+            "name": "★RC | Legendado | Drama",
+            "originalName": "★RC | Legendado | Drama",
+            "alias": "Legendado | Drama",
+            "displayName": "Legendado | Drama",
+            "hidden": false
+          },
+          {
+            "order": 67,
+            "key": "f_u3uskfb1lw",
+            "id": "2683",
+            "name": "★RC | Legendado | Fantasia",
+            "originalName": "★RC | Legendado | Fantasia",
+            "alias": "Legendado | Fantasia",
+            "displayName": "Legendado | Fantasia",
+            "hidden": false
+          },
+          {
+            "order": 68,
+            "key": "f_xnr4o2b1lw",
+            "id": "2565",
+            "name": "★RC | Legendado | Faroeste",
+            "originalName": "★RC | Legendado | Faroeste",
+            "alias": "Legendado | Faroeste",
+            "displayName": "Legendado | Faroeste",
+            "hidden": false
+          },
+          {
+            "order": 69,
+            "key": "f_rk67yab1lw",
+            "id": "2566",
+            "name": "★RC | Legendado | Ficção Científica",
+            "originalName": "★RC | Legendado | Ficção Científica",
+            "alias": "Legendado | Ficção Científica",
+            "displayName": "Legendado | Ficção Científica",
+            "hidden": false
+          },
+          {
+            "order": 70,
+            "key": "f_rcwizfb1lw",
+            "id": "2685",
+            "name": "★RC | Legendado | Guerra",
+            "originalName": "★RC | Legendado | Guerra",
+            "alias": "Legendado | Guerra",
+            "displayName": "Legendado | Guerra",
+            "hidden": false
+          },
+          {
+            "order": 71,
+            "key": "f_6gnz35b1lw",
+            "id": "4455",
+            "name": "★RC | Legendado | Histórico",
+            "originalName": "★RC | Legendado | Histórico",
+            "alias": "Legendado | Histórico",
+            "displayName": "Legendado | Histórico",
+            "hidden": false
+          },
+          {
+            "order": 72,
+            "key": "f_b2afawb1lw",
+            "id": "2567",
+            "name": "★RC | Legendado | Musical",
+            "originalName": "★RC | Legendado | Musical",
+            "alias": "Legendado | Musical",
+            "displayName": "Legendado | Musical",
+            "hidden": false
+          },
+          {
+            "order": 73,
+            "key": "f_14gjj4b1lw",
+            "id": "2568",
+            "name": "★RC | Legendado | Romance",
+            "originalName": "★RC | Legendado | Romance",
+            "alias": "Legendado | Romance",
+            "displayName": "Legendado | Romance",
+            "hidden": false
+          },
+          {
+            "order": 74,
+            "key": "f_af0xv7b1lw",
+            "id": "2738",
+            "name": "★RC | Legendado | Show",
+            "originalName": "★RC | Legendado | Show",
+            "alias": "Legendado | Show",
+            "displayName": "Legendado | Show",
+            "hidden": false
+          },
+          {
+            "order": 75,
+            "key": "f_8rds1zb1lw",
+            "id": "2569",
+            "name": "★RC | Legendado | Suspense",
+            "originalName": "★RC | Legendado | Suspense",
+            "alias": "Legendado | Suspense",
+            "displayName": "Legendado | Suspense",
+            "hidden": false
+          },
+          {
+            "order": 76,
+            "key": "f_hbf3xqb1lw",
+            "id": "2570",
+            "name": "★RC | Legendado | Terror",
+            "originalName": "★RC | Legendado | Terror",
+            "alias": "Legendado | Terror",
+            "displayName": "Legendado | Terror",
+            "hidden": false
+          },
+          {
+            "order": 77,
+            "key": "f_fz2i9hb1lw",
+            "id": "22836",
+            "name": "★RC | Filmes de 2025",
+            "originalName": "★RC | Filmes de 2025",
+            "alias": "Filmes de 2025",
+            "displayName": "Filmes de 2025",
+            "hidden": true
+          },
+          {
+            "order": 78,
+            "key": "f_0kliasb1lw",
+            "id": "21037",
+            "name": "★RC | Filmes de 2024",
+            "originalName": "★RC | Filmes de 2024",
+            "alias": "Filmes de 2024",
+            "displayName": "Filmes de 2024",
+            "hidden": true
+          },
+          {
+            "order": 79,
+            "key": "f_8dxs4ab1lw",
+            "id": "18450",
+            "name": "★RC | Filmes de 2023",
+            "originalName": "★RC | Filmes de 2023",
+            "alias": "Filmes de 2023",
+            "displayName": "Filmes de 2023",
+            "hidden": true
+          },
+          {
+            "order": 80,
+            "key": "f_x1evnvb1lw",
+            "id": "15207",
+            "name": "★RC | Filmes de 2022",
+            "originalName": "★RC | Filmes de 2022",
+            "alias": "Filmes de 2022",
+            "displayName": "Filmes de 2022",
+            "hidden": true
+          },
+          {
+            "order": 81,
+            "key": "f_vmis51b1lw",
+            "id": "11407",
+            "name": "★RC | Filmes de 2021",
+            "originalName": "★RC | Filmes de 2021",
+            "alias": "Filmes de 2021",
+            "displayName": "Filmes de 2021",
+            "hidden": true
+          }
+        ],
+        "series": [
+          {
+            "order": 0,
+            "key": "f_ph29e3ukzk",
+            "id": "1000",
+            "name": "★RC | Series | Amazon Prime Video",
+            "originalName": "★RC | Series | Amazon Prime Video",
+            "alias": "Amazon Prime Video",
+            "displayName": "Amazon Prime Video",
+            "hidden": false
+          },
+          {
+            "order": 1,
+            "key": "f_rj66poukzk",
+            "id": "1001",
+            "name": "★RC | Series | Apple TV+",
+            "originalName": "★RC | Series | Apple TV+",
+            "alias": "Apple TV+",
+            "displayName": "Apple TV+",
+            "hidden": false
+          },
+          {
+            "order": 2,
+            "key": "f_kyj0i3ukzk",
+            "id": "1002",
+            "name": "★RC | Series | Discovery+",
+            "originalName": "★RC | Series | Discovery+",
+            "alias": "Discovery+",
+            "displayName": "Discovery+",
+            "hidden": false
+          },
+          {
+            "order": 3,
+            "key": "f_e6hxb0ukzk",
+            "id": "1003",
+            "name": "★RC | Series | Disney+",
+            "originalName": "★RC | Series | Disney+",
+            "alias": "Disney+",
+            "displayName": "Disney+",
+            "hidden": false
+          },
+          {
+            "order": 4,
+            "key": "f_qyz489ukzk",
+            "id": "1004",
+            "name": "★RC | Series | Globoplay + Canais Globo",
+            "originalName": "★RC | Series | Globoplay + Canais Globo",
+            "alias": "Globoplay",
+            "displayName": "Globoplay",
+            "hidden": false
+          },
+          {
+            "order": 5,
+            "key": "f_u73z81ukzk",
+            "id": "1005",
+            "name": "★RC | Series | HBO Max",
+            "originalName": "★RC | Series | HBO Max",
+            "alias": "HBO Max",
+            "displayName": "HBO Max",
+            "hidden": false
+          },
+          {
+            "order": 6,
+            "key": "f_qhp8tmukzk",
+            "id": "1006",
+            "name": "★RC | Series | Lionsgate+",
+            "originalName": "★RC | Series | Lionsgate+",
+            "alias": "Lionsgate+",
+            "displayName": "Lionsgate+",
+            "hidden": false
+          },
+          {
+            "order": 7,
+            "key": "f_jvr1l1ukzk",
+            "id": "1007",
+            "name": "★RC | Series | Netflix",
+            "originalName": "★RC | Series | Netflix",
+            "alias": "Netflix",
+            "displayName": "Netflix",
+            "hidden": false
+          },
+          {
+            "order": 8,
+            "key": "f_x9svuvukzk",
+            "id": "1008",
+            "name": "★RC | Series | Paramount+",
+            "originalName": "★RC | Series | Paramount+",
+            "alias": "Paramount+",
+            "displayName": "Paramount+",
+            "hidden": false
+          },
+          {
+            "order": 9,
+            "key": "f_j1rftwb1lw",
+            "id": "2002",
+            "name": "★RC | Animes | Letra - A",
+            "originalName": "★RC | Animes | Letra - A",
+            "alias": "Animes",
+            "displayName": "Animes",
+            "hidden": false,
+            "mergedGroupId": "grp_ce09v6c0h2"
+          },
+          {
+            "order": 10,
+            "key": "f_coh2f3b1lw",
+            "id": "2012",
+            "name": "★RC | Animes | Letra - B",
+            "originalName": "★RC | Animes | Letra - B",
+            "alias": "Animes",
+            "displayName": "Animes",
+            "hidden": false,
+            "mergedGroupId": "grp_ce09v6c0h2"
+          },
+          {
+            "order": 11,
+            "key": "f_vytphhb1lw",
+            "id": "2022",
+            "name": "★RC | Animes | Letra - C",
+            "originalName": "★RC | Animes | Letra - C",
+            "alias": "Animes",
+            "displayName": "Animes",
+            "hidden": false,
+            "mergedGroupId": "grp_ce09v6c0h2"
+          },
+          {
+            "order": 12,
+            "key": "f_974wjgb1lw",
+            "id": "2032",
+            "name": "★RC | Animes | Letra - D",
+            "originalName": "★RC | Animes | Letra - D",
+            "alias": "Animes",
+            "displayName": "Animes",
+            "hidden": false,
+            "mergedGroupId": "grp_ce09v6c0h2"
+          },
+          {
+            "order": 13,
+            "key": "f_8mt3p8b1lw",
+            "id": "2042",
+            "name": "★RC | Animes | Letra - E",
+            "originalName": "★RC | Animes | Letra - E",
+            "alias": "Animes",
+            "displayName": "Animes",
+            "hidden": false,
+            "mergedGroupId": "grp_ce09v6c0h2"
+          },
+          {
+            "order": 14,
+            "key": "f_cyubwmb1lw",
+            "id": "2052",
+            "name": "★RC | Animes | Letra - F",
+            "originalName": "★RC | Animes | Letra - F",
+            "alias": "Animes",
+            "displayName": "Animes",
+            "hidden": false,
+            "mergedGroupId": "grp_ce09v6c0h2"
+          },
+          {
+            "order": 15,
+            "key": "f_9jjefkb1lw",
+            "id": "2062",
+            "name": "★RC | Animes | Letra - G",
+            "originalName": "★RC | Animes | Letra - G",
+            "alias": "Animes",
+            "displayName": "Animes",
+            "hidden": false,
+            "mergedGroupId": "grp_ce09v6c0h2"
+          },
+          {
+            "order": 16,
+            "key": "f_cg46veb1lw",
+            "id": "2072",
+            "name": "★RC | Animes | Letra - H",
+            "originalName": "★RC | Animes | Letra - H",
+            "alias": "Animes",
+            "displayName": "Animes",
+            "hidden": false,
+            "mergedGroupId": "grp_ce09v6c0h2"
+          },
+          {
+            "order": 17,
+            "key": "f_mjen2xb1lw",
+            "id": "2082",
+            "name": "★RC | Animes | Letra - I",
+            "originalName": "★RC | Animes | Letra - I",
+            "alias": "Animes",
+            "displayName": "Animes",
+            "hidden": false,
+            "mergedGroupId": "grp_ce09v6c0h2"
+          },
+          {
+            "order": 18,
+            "key": "f_ca8a2nb1lw",
+            "id": "2092",
+            "name": "★RC | Animes | Letra - J",
+            "originalName": "★RC | Animes | Letra - J",
+            "alias": "Animes",
+            "displayName": "Animes",
+            "hidden": false,
+            "mergedGroupId": "grp_ce09v6c0h2"
+          },
+          {
+            "order": 19,
+            "key": "f_29pp5zb1lw",
+            "id": "2102",
+            "name": "★RC | Animes | Letra - K",
+            "originalName": "★RC | Animes | Letra - K",
+            "alias": "Animes",
+            "displayName": "Animes",
+            "hidden": false,
+            "mergedGroupId": "grp_ce09v6c0h2"
+          },
+          {
+            "order": 20,
+            "key": "f_nlajunb1lw",
+            "id": "2112",
+            "name": "★RC | Animes | Letra - L",
+            "originalName": "★RC | Animes | Letra - L",
+            "alias": "Animes",
+            "displayName": "Animes",
+            "hidden": false,
+            "mergedGroupId": "grp_ce09v6c0h2"
+          },
+          {
+            "order": 21,
+            "key": "f_i7atkbb1lw",
+            "id": "2122",
+            "name": "★RC | Animes | Letra - M",
+            "originalName": "★RC | Animes | Letra - M",
+            "alias": "Animes",
+            "displayName": "Animes",
+            "hidden": false,
+            "mergedGroupId": "grp_ce09v6c0h2"
+          },
+          {
+            "order": 22,
+            "key": "f_nfgpieb1lw",
+            "id": "2132",
+            "name": "★RC | Animes | Letra - N",
+            "originalName": "★RC | Animes | Letra - N",
+            "alias": "Animes",
+            "displayName": "Animes",
+            "hidden": false,
+            "mergedGroupId": "grp_ce09v6c0h2"
+          },
+          {
+            "order": 23,
+            "key": "f_bo733pb1lw",
+            "id": "2142",
+            "name": "★RC | Animes | Letra - O",
+            "originalName": "★RC | Animes | Letra - O",
+            "alias": "Animes",
+            "displayName": "Animes",
+            "hidden": false,
+            "mergedGroupId": "grp_ce09v6c0h2"
+          },
+          {
+            "order": 24,
+            "key": "f_rmteznb1lw",
+            "id": "2152",
+            "name": "★RC | Animes | Letra - P",
+            "originalName": "★RC | Animes | Letra - P",
+            "alias": "Animes",
+            "displayName": "Animes",
+            "hidden": false,
+            "mergedGroupId": "grp_ce09v6c0h2"
+          },
+          {
+            "order": 25,
+            "key": "f_qxafmxb1lw",
+            "id": "2162",
+            "name": "★RC | Animes | Letra - Q",
+            "originalName": "★RC | Animes | Letra - Q",
+            "alias": "Animes",
+            "displayName": "Animes",
+            "hidden": false,
+            "mergedGroupId": "grp_ce09v6c0h2"
+          },
+          {
+            "order": 26,
+            "key": "f_zstgkkb1lw",
+            "id": "2172",
+            "name": "★RC | Animes | Letra - R",
+            "originalName": "★RC | Animes | Letra - R",
+            "alias": "Animes",
+            "displayName": "Animes",
+            "hidden": false,
+            "mergedGroupId": "grp_ce09v6c0h2"
+          },
+          {
+            "order": 27,
+            "key": "f_jikrh5b1lw",
+            "id": "2182",
+            "name": "★RC | Animes | Letra - S",
+            "originalName": "★RC | Animes | Letra - S",
+            "alias": "Animes",
+            "displayName": "Animes",
+            "hidden": false,
+            "mergedGroupId": "grp_ce09v6c0h2"
+          },
+          {
+            "order": 28,
+            "key": "f_49vf0ab1lw",
+            "id": "2192",
+            "name": "★RC | Animes | Letra - T",
+            "originalName": "★RC | Animes | Letra - T",
+            "alias": "Animes",
+            "displayName": "Animes",
+            "hidden": false,
+            "mergedGroupId": "grp_ce09v6c0h2"
+          },
+          {
+            "order": 29,
+            "key": "f_cjxb2gb1lw",
+            "id": "2202",
+            "name": "★RC | Animes | Letra - U",
+            "originalName": "★RC | Animes | Letra - U",
+            "alias": "Animes",
+            "displayName": "Animes",
+            "hidden": false,
+            "mergedGroupId": "grp_ce09v6c0h2"
+          },
+          {
+            "order": 30,
+            "key": "f_8jyy7gb1lw",
+            "id": "2212",
+            "name": "★RC | Animes | Letra - V",
+            "originalName": "★RC | Animes | Letra - V",
+            "alias": "Animes",
+            "displayName": "Animes",
+            "hidden": false,
+            "mergedGroupId": "grp_ce09v6c0h2"
+          },
+          {
+            "order": 31,
+            "key": "f_qw2jjpb1lw",
+            "id": "2222",
+            "name": "★RC | Animes | Letra - W",
+            "originalName": "★RC | Animes | Letra - W",
+            "alias": "Animes",
+            "displayName": "Animes",
+            "hidden": false,
+            "mergedGroupId": "grp_ce09v6c0h2"
+          },
+          {
+            "order": 32,
+            "key": "f_a9c4axb1lw",
+            "id": "2232",
+            "name": "★RC | Animes | Letra - X",
+            "originalName": "★RC | Animes | Letra - X",
+            "alias": "Animes",
+            "displayName": "Animes",
+            "hidden": false,
+            "mergedGroupId": "grp_ce09v6c0h2"
+          },
+          {
+            "order": 33,
+            "key": "f_89kzp4b1lw",
+            "id": "2242",
+            "name": "★RC | Animes | Letra - Y",
+            "originalName": "★RC | Animes | Letra - Y",
+            "alias": "Animes",
+            "displayName": "Animes",
+            "hidden": false,
+            "mergedGroupId": "grp_ce09v6c0h2"
+          },
+          {
+            "order": 34,
+            "key": "f_ojcymfb1lw",
+            "id": "2252",
+            "name": "★RC | Animes | Letra - Z",
+            "originalName": "★RC | Animes | Letra - Z",
+            "alias": "Animes",
+            "displayName": "Animes",
+            "hidden": false,
+            "mergedGroupId": "grp_ce09v6c0h2"
+          },
+          {
+            "order": 35,
+            "key": "f_95bys4b1lw",
+            "id": "2262",
+            "name": "★RC | Animes | Números & Símbolos",
+            "originalName": "★RC | Animes | Números & Símbolos",
+            "alias": "Animes",
+            "displayName": "Animes",
+            "hidden": false,
+            "mergedGroupId": "grp_ce09v6c0h2"
+          },
+          {
+            "order": 36,
+            "key": "f_h2sphowdeu",
+            "name": "Animes",
+            "originalName": "Animes",
+            "alias": "Animes",
+            "displayName": "Animes",
+            "hidden": false,
+            "mergedGroupId": "grp_ce09v6c0h2"
+          },
+          {
+            "order": 37,
+            "key": "f_nauccmb1lw",
+            "id": "2003",
+            "name": "★RC | Desenhos | Letra - A",
+            "originalName": "★RC | Desenhos | Letra - A",
+            "alias": "Desenhos",
+            "displayName": "Desenhos",
+            "hidden": false,
+            "mergedGroupId": "grp_8gqyhbc7e6"
+          },
+          {
+            "order": 38,
+            "key": "f_bb85orb1lw",
+            "id": "2013",
+            "name": "★RC | Desenhos | Letra - B",
+            "originalName": "★RC | Desenhos | Letra - B",
+            "alias": "Desenhos",
+            "displayName": "Desenhos",
+            "hidden": false,
+            "mergedGroupId": "grp_8gqyhbc7e6"
+          },
+          {
+            "order": 39,
+            "key": "f_gw4haqb1lw",
+            "id": "2023",
+            "name": "★RC | Desenhos | Letra - C",
+            "originalName": "★RC | Desenhos | Letra - C",
+            "alias": "Desenhos",
+            "displayName": "Desenhos",
+            "hidden": false,
+            "mergedGroupId": "grp_8gqyhbc7e6"
+          },
+          {
+            "order": 40,
+            "key": "f_tzdqltb1lw",
+            "id": "2033",
+            "name": "★RC | Desenhos | Letra - D",
+            "originalName": "★RC | Desenhos | Letra - D",
+            "alias": "Desenhos",
+            "displayName": "Desenhos",
+            "hidden": false,
+            "mergedGroupId": "grp_8gqyhbc7e6"
+          },
+          {
+            "order": 41,
+            "key": "f_d3wzqqb1lw",
+            "id": "2043",
+            "name": "★RC | Desenhos | Letra - E",
+            "originalName": "★RC | Desenhos | Letra - E",
+            "alias": "Desenhos",
+            "displayName": "Desenhos",
+            "hidden": false,
+            "mergedGroupId": "grp_8gqyhbc7e6"
+          },
+          {
+            "order": 42,
+            "key": "f_hiraesb1lw",
+            "id": "2053",
+            "name": "★RC | Desenhos | Letra - F",
+            "originalName": "★RC | Desenhos | Letra - F",
+            "alias": "Desenhos",
+            "displayName": "Desenhos",
+            "hidden": false,
+            "mergedGroupId": "grp_8gqyhbc7e6"
+          },
+          {
+            "order": 43,
+            "key": "f_sod5nib1lw",
+            "id": "2063",
+            "name": "★RC | Desenhos | Letra - G",
+            "originalName": "★RC | Desenhos | Letra - G",
+            "alias": "Desenhos",
+            "displayName": "Desenhos",
+            "hidden": false,
+            "mergedGroupId": "grp_8gqyhbc7e6"
+          },
+          {
+            "order": 44,
+            "key": "f_tkagvyb1lw",
+            "id": "2073",
+            "name": "★RC | Desenhos | Letra - H",
+            "originalName": "★RC | Desenhos | Letra - H",
+            "alias": "Desenhos",
+            "displayName": "Desenhos",
+            "hidden": false,
+            "mergedGroupId": "grp_8gqyhbc7e6"
+          },
+          {
+            "order": 45,
+            "key": "f_jobb97b1lw",
+            "id": "2083",
+            "name": "★RC | Desenhos | Letra - I",
+            "originalName": "★RC | Desenhos | Letra - I",
+            "alias": "Desenhos",
+            "displayName": "Desenhos",
+            "hidden": false,
+            "mergedGroupId": "grp_8gqyhbc7e6"
+          },
+          {
+            "order": 46,
+            "key": "f_45hs2db1lw",
+            "id": "2093",
+            "name": "★RC | Desenhos | Letra - J",
+            "originalName": "★RC | Desenhos | Letra - J",
+            "alias": "Desenhos",
+            "displayName": "Desenhos",
+            "hidden": false,
+            "mergedGroupId": "grp_8gqyhbc7e6"
+          },
+          {
+            "order": 47,
+            "key": "f_67l1n7b1lw",
+            "id": "2103",
+            "name": "★RC | Desenhos | Letra - K",
+            "originalName": "★RC | Desenhos | Letra - K",
+            "alias": "Desenhos",
+            "displayName": "Desenhos",
+            "hidden": false,
+            "mergedGroupId": "grp_8gqyhbc7e6"
+          },
+          {
+            "order": 48,
+            "key": "f_c4sevjb1lw",
+            "id": "2113",
+            "name": "★RC | Desenhos | Letra - L",
+            "originalName": "★RC | Desenhos | Letra - L",
+            "alias": "Desenhos",
+            "displayName": "Desenhos",
+            "hidden": false,
+            "mergedGroupId": "grp_8gqyhbc7e6"
+          },
+          {
+            "order": 49,
+            "key": "f_spp8job1lw",
+            "id": "2123",
+            "name": "★RC | Desenhos | Letra - M",
+            "originalName": "★RC | Desenhos | Letra - M",
+            "alias": "Desenhos",
+            "displayName": "Desenhos",
+            "hidden": false,
+            "mergedGroupId": "grp_8gqyhbc7e6"
+          },
+          {
+            "order": 50,
+            "key": "f_6nz8d8b1lw",
+            "id": "2133",
+            "name": "★RC | Desenhos | Letra - N",
+            "originalName": "★RC | Desenhos | Letra - N",
+            "alias": "Desenhos",
+            "displayName": "Desenhos",
+            "hidden": false,
+            "mergedGroupId": "grp_8gqyhbc7e6"
+          },
+          {
+            "order": 51,
+            "key": "f_po5wonb1lw",
+            "id": "2143",
+            "name": "★RC | Desenhos | Letra - O",
+            "originalName": "★RC | Desenhos | Letra - O",
+            "alias": "Desenhos",
+            "displayName": "Desenhos",
+            "hidden": false,
+            "mergedGroupId": "grp_8gqyhbc7e6"
+          },
+          {
+            "order": 52,
+            "key": "f_idcu3rb1lw",
+            "id": "2153",
+            "name": "★RC | Desenhos | Letra - P",
+            "originalName": "★RC | Desenhos | Letra - P",
+            "alias": "Desenhos",
+            "displayName": "Desenhos",
+            "hidden": false,
+            "mergedGroupId": "grp_8gqyhbc7e6"
+          },
+          {
+            "order": 53,
+            "key": "f_70ylc0b1lw",
+            "id": "2163",
+            "name": "★RC | Desenhos | Letra - Q",
+            "originalName": "★RC | Desenhos | Letra - Q",
+            "alias": "Desenhos",
+            "displayName": "Desenhos",
+            "hidden": false,
+            "mergedGroupId": "grp_8gqyhbc7e6"
+          },
+          {
+            "order": 54,
+            "key": "f_t1c345b1lw",
+            "id": "2173",
+            "name": "★RC | Desenhos | Letra - R",
+            "originalName": "★RC | Desenhos | Letra - R",
+            "alias": "Desenhos",
+            "displayName": "Desenhos",
+            "hidden": false,
+            "mergedGroupId": "grp_8gqyhbc7e6"
+          },
+          {
+            "order": 55,
+            "key": "f_4ytwbtb1lw",
+            "id": "2183",
+            "name": "★RC | Desenhos | Letra - S",
+            "originalName": "★RC | Desenhos | Letra - S",
+            "alias": "Desenhos",
+            "displayName": "Desenhos",
+            "hidden": false,
+            "mergedGroupId": "grp_8gqyhbc7e6"
+          },
+          {
+            "order": 56,
+            "key": "f_iqtf7pb1lw",
+            "id": "2193",
+            "name": "★RC | Desenhos | Letra - T",
+            "originalName": "★RC | Desenhos | Letra - T",
+            "alias": "Desenhos",
+            "displayName": "Desenhos",
+            "hidden": false,
+            "mergedGroupId": "grp_8gqyhbc7e6"
+          },
+          {
+            "order": 57,
+            "key": "f_fyg0jqb1lw",
+            "id": "2203",
+            "name": "★RC | Desenhos | Letra - U",
+            "originalName": "★RC | Desenhos | Letra - U",
+            "alias": "Desenhos",
+            "displayName": "Desenhos",
+            "hidden": false,
+            "mergedGroupId": "grp_8gqyhbc7e6"
+          },
+          {
+            "order": 58,
+            "key": "f_dt2sklb1lw",
+            "id": "2213",
+            "name": "★RC | Desenhos | Letra - V",
+            "originalName": "★RC | Desenhos | Letra - V",
+            "alias": "Desenhos",
+            "displayName": "Desenhos",
+            "hidden": false,
+            "mergedGroupId": "grp_8gqyhbc7e6"
+          },
+          {
+            "order": 59,
+            "key": "f_rci5dhb1lw",
+            "id": "2223",
+            "name": "★RC | Desenhos | Letra - W",
+            "originalName": "★RC | Desenhos | Letra - W",
+            "alias": "Desenhos",
+            "displayName": "Desenhos",
+            "hidden": false,
+            "mergedGroupId": "grp_8gqyhbc7e6"
+          },
+          {
+            "order": 60,
+            "key": "f_kvwvy9b1lw",
+            "id": "2233",
+            "name": "★RC | Desenhos | Letra - X",
+            "originalName": "★RC | Desenhos | Letra - X",
+            "alias": "Desenhos",
+            "displayName": "Desenhos",
+            "hidden": false,
+            "mergedGroupId": "grp_8gqyhbc7e6"
+          },
+          {
+            "order": 61,
+            "key": "f_isvbvqb1lw",
+            "id": "2243",
+            "name": "★RC | Desenhos | Letra - Y",
+            "originalName": "★RC | Desenhos | Letra - Y",
+            "alias": "Desenhos",
+            "displayName": "Desenhos",
+            "hidden": false,
+            "mergedGroupId": "grp_8gqyhbc7e6"
+          },
+          {
+            "order": 62,
+            "key": "f_rn4cwjb1lw",
+            "id": "2253",
+            "name": "★RC | Desenhos | Letra - Z",
+            "originalName": "★RC | Desenhos | Letra - Z",
+            "alias": "Desenhos",
+            "displayName": "Desenhos",
+            "hidden": false,
+            "mergedGroupId": "grp_8gqyhbc7e6"
+          },
+          {
+            "order": 63,
+            "key": "f_dkbta0b1lw",
+            "id": "2263",
+            "name": "★RC | Desenhos | Números & Símbolos",
+            "originalName": "★RC | Desenhos | Números & Símbolos",
+            "alias": "Desenhos",
+            "displayName": "Desenhos",
+            "hidden": false,
+            "mergedGroupId": "grp_8gqyhbc7e6"
+          },
+          {
+            "order": 64,
+            "key": "f_ko8ajuwdeu",
+            "name": "Desenhos",
+            "originalName": "Desenhos",
+            "alias": "Desenhos",
+            "displayName": "Desenhos",
+            "hidden": false,
+            "mergedGroupId": "grp_8gqyhbc7e6"
+          },
+          {
+            "order": 65,
+            "key": "f_m8c411ukzk",
+            "id": "1009",
+            "name": "★RC | Series | Doramas",
+            "originalName": "★RC | Series | Doramas",
+            "alias": "Doramas",
+            "displayName": "Doramas",
+            "hidden": false
+          },
+          {
+            "order": 66,
+            "key": "f_86fxcaln1k",
+            "id": "s_doc",
+            "name": "Documentário & Ciência",
+            "originalName": "Documentário & Ciência",
+            "displayName": "Documentário & Ciência",
+            "hidden": false
+          },
+          {
+            "order": 67,
+            "key": "f_s38wpjb1lw",
+            "id": "2004",
+            "name": "★RC | Novelas | Letra - A",
+            "originalName": "★RC | Novelas | Letra - A",
+            "alias": "Novelas",
+            "displayName": "Novelas",
+            "hidden": false,
+            "mergedGroupId": "grp_hevdp7ceap"
+          },
+          {
+            "order": 68,
+            "key": "f_2k8mzpb1lw",
+            "id": "2014",
+            "name": "★RC | Novelas | Letra - B",
+            "originalName": "★RC | Novelas | Letra - B",
+            "alias": "Novelas",
+            "displayName": "Novelas",
+            "hidden": false,
+            "mergedGroupId": "grp_hevdp7ceap"
+          },
+          {
+            "order": 69,
+            "key": "f_4jrkeob1lw",
+            "id": "2024",
+            "name": "★RC | Novelas | Letra - C",
+            "originalName": "★RC | Novelas | Letra - C",
+            "alias": "Novelas",
+            "displayName": "Novelas",
+            "hidden": false,
+            "mergedGroupId": "grp_hevdp7ceap"
+          },
+          {
+            "order": 70,
+            "key": "f_dh1nk7b1lw",
+            "id": "2034",
+            "name": "★RC | Novelas | Letra - D",
+            "originalName": "★RC | Novelas | Letra - D",
+            "alias": "Novelas",
+            "displayName": "Novelas",
+            "hidden": false,
+            "mergedGroupId": "grp_hevdp7ceap"
+          },
+          {
+            "order": 71,
+            "key": "f_f2kwtwb1lw",
+            "id": "2044",
+            "name": "★RC | Novelas | Letra - E",
+            "originalName": "★RC | Novelas | Letra - E",
+            "alias": "Novelas",
+            "displayName": "Novelas",
+            "hidden": false,
+            "mergedGroupId": "grp_hevdp7ceap"
+          },
+          {
+            "order": 72,
+            "key": "f_jq1ykib1lw",
+            "id": "2054",
+            "name": "★RC | Novelas | Letra - F",
+            "originalName": "★RC | Novelas | Letra - F",
+            "alias": "Novelas",
+            "displayName": "Novelas",
+            "hidden": false,
+            "mergedGroupId": "grp_hevdp7ceap"
+          },
+          {
+            "order": 73,
+            "key": "f_e1xx9gb1lw",
+            "id": "2064",
+            "name": "★RC | Novelas | Letra - G",
+            "originalName": "★RC | Novelas | Letra - G",
+            "alias": "Novelas",
+            "displayName": "Novelas",
+            "hidden": false,
+            "mergedGroupId": "grp_hevdp7ceap"
+          },
+          {
+            "order": 74,
+            "key": "f_8skd5hb1lw",
+            "id": "2074",
+            "name": "★RC | Novelas | Letra - H",
+            "originalName": "★RC | Novelas | Letra - H",
+            "alias": "Novelas",
+            "displayName": "Novelas",
+            "hidden": false,
+            "mergedGroupId": "grp_hevdp7ceap"
+          },
+          {
+            "order": 75,
+            "key": "f_sq4bcfb1lw",
+            "id": "2084",
+            "name": "★RC | Novelas | Letra - I",
+            "originalName": "★RC | Novelas | Letra - I",
+            "alias": "Novelas",
+            "displayName": "Novelas",
+            "hidden": false,
+            "mergedGroupId": "grp_hevdp7ceap"
+          },
+          {
+            "order": 76,
+            "key": "f_jjz3ygb1lw",
+            "id": "2094",
+            "name": "★RC | Novelas | Letra - J",
+            "originalName": "★RC | Novelas | Letra - J",
+            "alias": "Novelas",
+            "displayName": "Novelas",
+            "hidden": false,
+            "mergedGroupId": "grp_hevdp7ceap"
+          },
+          {
+            "order": 77,
+            "key": "f_9z0apob1lw",
+            "id": "2104",
+            "name": "★RC | Novelas | Letra - K",
+            "originalName": "★RC | Novelas | Letra - K",
+            "alias": "Novelas",
+            "displayName": "Novelas",
+            "hidden": false,
+            "mergedGroupId": "grp_hevdp7ceap"
+          },
+          {
+            "order": 78,
+            "key": "f_0d2ra9b1lw",
+            "id": "2114",
+            "name": "★RC | Novelas | Letra - L",
+            "originalName": "★RC | Novelas | Letra - L",
+            "alias": "Novelas",
+            "displayName": "Novelas",
+            "hidden": false,
+            "mergedGroupId": "grp_hevdp7ceap"
+          },
+          {
+            "order": 79,
+            "key": "f_tho13eb1lw",
+            "id": "2124",
+            "name": "★RC | Novelas | Letra - M",
+            "originalName": "★RC | Novelas | Letra - M",
+            "alias": "Novelas",
+            "displayName": "Novelas",
+            "hidden": false,
+            "mergedGroupId": "grp_hevdp7ceap"
+          },
+          {
+            "order": 80,
+            "key": "f_k7927nb1lw",
+            "id": "2134",
+            "name": "★RC | Novelas | Letra - N",
+            "originalName": "★RC | Novelas | Letra - N",
+            "alias": "Novelas",
+            "displayName": "Novelas",
+            "hidden": false,
+            "mergedGroupId": "grp_hevdp7ceap"
+          },
+          {
+            "order": 81,
+            "key": "f_u1i65gb1lw",
+            "id": "2144",
+            "name": "★RC | Novelas | Letra - O",
+            "originalName": "★RC | Novelas | Letra - O",
+            "alias": "Novelas",
+            "displayName": "Novelas",
+            "hidden": false,
+            "mergedGroupId": "grp_hevdp7ceap"
+          },
+          {
+            "order": 82,
+            "key": "f_ojjh7hb1lw",
+            "id": "2154",
+            "name": "★RC | Novelas | Letra - P",
+            "originalName": "★RC | Novelas | Letra - P",
+            "alias": "Novelas",
+            "displayName": "Novelas",
+            "hidden": false,
+            "mergedGroupId": "grp_hevdp7ceap"
+          },
+          {
+            "order": 83,
+            "key": "f_frwdr2b1lw",
+            "id": "2164",
+            "name": "★RC | Novelas | Letra - Q",
+            "originalName": "★RC | Novelas | Letra - Q",
+            "alias": "Novelas",
+            "displayName": "Novelas",
+            "hidden": false,
+            "mergedGroupId": "grp_hevdp7ceap"
+          },
+          {
+            "order": 84,
+            "key": "f_yspiv9b1lw",
+            "id": "2174",
+            "name": "★RC | Novelas | Letra - R",
+            "originalName": "★RC | Novelas | Letra - R",
+            "alias": "Novelas",
+            "displayName": "Novelas",
+            "hidden": false,
+            "mergedGroupId": "grp_hevdp7ceap"
+          },
+          {
+            "order": 85,
+            "key": "f_3f3kutb1lw",
+            "id": "2184",
+            "name": "★RC | Novelas | Letra - S",
+            "originalName": "★RC | Novelas | Letra - S",
+            "alias": "Novelas",
+            "displayName": "Novelas",
+            "hidden": false,
+            "mergedGroupId": "grp_hevdp7ceap"
+          },
+          {
+            "order": 86,
+            "key": "f_ytbxgqb1lw",
+            "id": "2194",
+            "name": "★RC | Novelas | Letra - T",
+            "originalName": "★RC | Novelas | Letra - T",
+            "alias": "Novelas",
+            "displayName": "Novelas",
+            "hidden": false,
+            "mergedGroupId": "grp_hevdp7ceap"
+          },
+          {
+            "order": 87,
+            "key": "f_q4l1hob1lw",
+            "id": "2204",
+            "name": "★RC | Novelas | Letra - U",
+            "originalName": "★RC | Novelas | Letra - U",
+            "alias": "Novelas",
+            "displayName": "Novelas",
+            "hidden": false,
+            "mergedGroupId": "grp_hevdp7ceap"
+          },
+          {
+            "order": 88,
+            "key": "f_yjuuiyb1lw",
+            "id": "2214",
+            "name": "★RC | Novelas | Letra - V",
+            "originalName": "★RC | Novelas | Letra - V",
+            "alias": "Novelas",
+            "displayName": "Novelas",
+            "hidden": false,
+            "mergedGroupId": "grp_hevdp7ceap"
+          },
+          {
+            "order": 89,
+            "key": "f_4vqfvxb1lw",
+            "id": "2234",
+            "name": "★RC | Novelas | Letra - X",
+            "originalName": "★RC | Novelas | Letra - X",
+            "alias": "Novelas",
+            "displayName": "Novelas",
+            "hidden": false,
+            "mergedGroupId": "grp_hevdp7ceap"
+          },
+          {
+            "order": 90,
+            "key": "f_qcxav0b1lw",
+            "id": "2244",
+            "name": "★RC | Novelas | Letra - Y",
+            "originalName": "★RC | Novelas | Letra - Y",
+            "alias": "Novelas",
+            "displayName": "Novelas",
+            "hidden": false,
+            "mergedGroupId": "grp_hevdp7ceap"
+          },
+          {
+            "order": 91,
+            "key": "f_3qv7qxb1lw",
+            "id": "2254",
+            "name": "★RC | Novelas | Letra - Z",
+            "originalName": "★RC | Novelas | Letra - Z",
+            "alias": "Novelas",
+            "displayName": "Novelas",
+            "hidden": false,
+            "mergedGroupId": "grp_hevdp7ceap"
+          },
+          {
+            "order": 92,
+            "key": "f_z5x44kwdeu",
+            "name": "Novelas",
+            "originalName": "Novelas",
+            "alias": "Novelas",
+            "displayName": "Novelas",
+            "hidden": false,
+            "mergedGroupId": "grp_hevdp7ceap"
+          },
+          {
+            "order": 93,
+            "key": "f_injy3mb1lw",
+            "id": "2001",
+            "name": "★RC | Series | Letra - A",
+            "originalName": "★RC | Series | Letra - A",
+            "alias": "Letra - A",
+            "displayName": "Letra - A",
+            "hidden": false
+          },
+          {
+            "order": 94,
+            "key": "f_6cyoimb1lw",
+            "id": "2011",
+            "name": "★RC | Series | Letra - B",
+            "originalName": "★RC | Series | Letra - B",
+            "alias": "Letra - B",
+            "displayName": "Letra - B",
+            "hidden": false
+          },
+          {
+            "order": 95,
+            "key": "f_o8qok7b1lw",
+            "id": "2021",
+            "name": "★RC | Series | Letra - C",
+            "originalName": "★RC | Series | Letra - C",
+            "alias": "Letra - C",
+            "displayName": "Letra - C",
+            "hidden": false
+          },
+          {
+            "order": 96,
+            "key": "f_hcsk9jb1lw",
+            "id": "2031",
+            "name": "★RC | Series | Letra - D",
+            "originalName": "★RC | Series | Letra - D",
+            "alias": "Letra - D",
+            "displayName": "Letra - D",
+            "hidden": false
+          },
+          {
+            "order": 97,
+            "key": "f_tu1v6bb1lw",
+            "id": "2041",
+            "name": "★RC | Series | Letra - E",
+            "originalName": "★RC | Series | Letra - E",
+            "alias": "Letra - E",
+            "displayName": "Letra - E",
+            "hidden": false
+          },
+          {
+            "order": 98,
+            "key": "f_eh42uvb1lw",
+            "id": "2051",
+            "name": "★RC | Series | Letra - F",
+            "originalName": "★RC | Series | Letra - F",
+            "alias": "Letra - F",
+            "displayName": "Letra - F",
+            "hidden": false
+          },
+          {
+            "order": 99,
+            "key": "f_46fruvb1lw",
+            "id": "2061",
+            "name": "★RC | Series | Letra - G",
+            "originalName": "★RC | Series | Letra - G",
+            "alias": "Letra - G",
+            "displayName": "Letra - G",
+            "hidden": false
+          },
+          {
+            "order": 100,
+            "key": "f_f9jva1b1lw",
+            "id": "2071",
+            "name": "★RC | Series | Letra - H",
+            "originalName": "★RC | Series | Letra - H",
+            "alias": "Letra - H",
+            "displayName": "Letra - H",
+            "hidden": false
+          },
+          {
+            "order": 101,
+            "key": "f_1dt05sb1lw",
+            "id": "2081",
+            "name": "★RC | Series | Letra - I",
+            "originalName": "★RC | Series | Letra - I",
+            "alias": "Letra - I",
+            "displayName": "Letra - I",
+            "hidden": false
+          },
+          {
+            "order": 102,
+            "key": "f_exkr2sb1lw",
+            "id": "2091",
+            "name": "★RC | Series | Letra - J",
+            "originalName": "★RC | Series | Letra - J",
+            "alias": "Letra - J",
+            "displayName": "Letra - J",
+            "hidden": false
+          },
+          {
+            "order": 103,
+            "key": "f_sevl6tb1lw",
+            "id": "2101",
+            "name": "★RC | Series | Letra - K",
+            "originalName": "★RC | Series | Letra - K",
+            "alias": "Letra - K",
+            "displayName": "Letra - K",
+            "hidden": false
+          },
+          {
+            "order": 104,
+            "key": "f_hap9r1b1lw",
+            "id": "2111",
+            "name": "★RC | Series | Letra - L",
+            "originalName": "★RC | Series | Letra - L",
+            "alias": "Letra - L",
+            "displayName": "Letra - L",
+            "hidden": false
+          },
+          {
+            "order": 105,
+            "key": "f_mg4k9ob1lw",
+            "id": "2121",
+            "name": "★RC | Series | Letra - M",
+            "originalName": "★RC | Series | Letra - M",
+            "alias": "Letra - M",
+            "displayName": "Letra - M",
+            "hidden": false
+          },
+          {
+            "order": 106,
+            "key": "f_uffep1b1lw",
+            "id": "2131",
+            "name": "★RC | Series | Letra - N",
+            "originalName": "★RC | Series | Letra - N",
+            "alias": "Letra - N",
+            "displayName": "Letra - N",
+            "hidden": false
+          },
+          {
+            "order": 107,
+            "key": "f_l0dqywb1lw",
+            "id": "2141",
+            "name": "★RC | Series | Letra - O",
+            "originalName": "★RC | Series | Letra - O",
+            "alias": "Letra - O",
+            "displayName": "Letra - O",
+            "hidden": false
+          },
+          {
+            "order": 108,
+            "key": "f_6coahvb1lw",
+            "id": "2151",
+            "name": "★RC | Series | Letra - P",
+            "originalName": "★RC | Series | Letra - P",
+            "alias": "Letra - P",
+            "displayName": "Letra - P",
+            "hidden": false
+          },
+          {
+            "order": 109,
+            "key": "f_0k812hb1lw",
+            "id": "2161",
+            "name": "★RC | Series | Letra - Q",
+            "originalName": "★RC | Series | Letra - Q",
+            "alias": "Letra - Q",
+            "displayName": "Letra - Q",
+            "hidden": false
+          },
+          {
+            "order": 110,
+            "key": "f_4eg3thb1lw",
+            "id": "2171",
+            "name": "★RC | Series | Letra - R",
+            "originalName": "★RC | Series | Letra - R",
+            "alias": "Letra - R",
+            "displayName": "Letra - R",
+            "hidden": false
+          },
+          {
+            "order": 111,
+            "key": "f_r1capub1lw",
+            "id": "2181",
+            "name": "★RC | Series | Letra - S",
+            "originalName": "★RC | Series | Letra - S",
+            "alias": "Letra - S",
+            "displayName": "Letra - S",
+            "hidden": false
+          },
+          {
+            "order": 112,
+            "key": "f_bq9jg0b1lw",
+            "id": "2191",
+            "name": "★RC | Series | Letra - T",
+            "originalName": "★RC | Series | Letra - T",
+            "alias": "Letra - T",
+            "displayName": "Letra - T",
+            "hidden": false
+          },
+          {
+            "order": 113,
+            "key": "f_imh5z6b1lw",
+            "id": "2201",
+            "name": "★RC | Series | Letra - U",
+            "originalName": "★RC | Series | Letra - U",
+            "alias": "Letra - U",
+            "displayName": "Letra - U",
+            "hidden": false
+          },
+          {
+            "order": 114,
+            "key": "f_xbeweab1lw",
+            "id": "2211",
+            "name": "★RC | Series | Letra - V",
+            "originalName": "★RC | Series | Letra - V",
+            "alias": "Letra - V",
+            "displayName": "Letra - V",
+            "hidden": false
+          },
+          {
+            "order": 115,
+            "key": "f_fni0ldb1lw",
+            "id": "2221",
+            "name": "★RC | Series | Letra - W",
+            "originalName": "★RC | Series | Letra - W",
+            "alias": "Letra - W",
+            "displayName": "Letra - W",
+            "hidden": false
+          },
+          {
+            "order": 116,
+            "key": "f_j454mxb1lw",
+            "id": "2231",
+            "name": "★RC | Series | Letra - X",
+            "originalName": "★RC | Series | Letra - X",
+            "alias": "Letra - X",
+            "displayName": "Letra - X",
+            "hidden": false
+          },
+          {
+            "order": 117,
+            "key": "f_aae7wfb1lw",
+            "id": "2241",
+            "name": "★RC | Series | Letra - Y",
+            "originalName": "★RC | Series | Letra - Y",
+            "alias": "Letra - Y",
+            "displayName": "Letra - Y",
+            "hidden": false
+          },
+          {
+            "order": 118,
+            "key": "f_d6hsgsb1lw",
+            "id": "2251",
+            "name": "★RC | Series | Letra - Z",
+            "originalName": "★RC | Series | Letra - Z",
+            "alias": "Letra - Z",
+            "displayName": "Letra - Z",
+            "hidden": false
+          },
+          {
+            "order": 119,
+            "key": "f_j5fh0yb1lw",
+            "id": "2261",
+            "name": "★RC | Series | Números & Símbolos",
+            "originalName": "★RC | Series | Números & Símbolos",
+            "alias": "Números & Símbolos",
+            "displayName": "Números & Símbolos",
+            "hidden": false
+          }
+        ],
+        "live": [
+          {
+            "order": 0,
+            "key": "f_6q2jk8b1lw",
+            "id": "2206130670",
+            "name": "★RC | Canais Abertos",
+            "originalName": "★RC | Canais Abertos",
+            "alias": "Canais Abertos",
+            "displayName": "Canais Abertos",
+            "hidden": false
+          },
+          {
+            "order": 1,
+            "key": "f_onl6ahb1lw",
+            "id": "1451461857",
+            "name": "★RC | Documentários",
+            "originalName": "★RC | Documentários",
+            "alias": "Documentários",
+            "displayName": "Documentários",
+            "hidden": false
+          },
+          {
+            "order": 2,
+            "key": "f_1k4rw1b1lw",
+            "id": "1914524096",
+            "name": "★RC | Esportes",
+            "originalName": "★RC | Esportes",
+            "alias": "Esportes",
+            "displayName": "Esportes",
+            "hidden": false
+          },
+          {
+            "order": 3,
+            "key": "f_yul8t6b1lw",
+            "id": "2803530479",
+            "name": "★RC | Filmes",
+            "originalName": "★RC | Filmes",
+            "alias": "Filmes",
+            "displayName": "Filmes",
+            "hidden": false
+          },
+          {
+            "order": 4,
+            "key": "f_q9ipmab1lw",
+            "id": "1920355512",
+            "name": "★RC | Infantil",
+            "originalName": "★RC | Infantil",
+            "alias": "Infantil",
+            "displayName": "Infantil",
+            "hidden": false
+          },
+          {
+            "order": 5,
+            "key": "f_le4zvub1lw",
+            "id": "2542697666",
+            "name": "★RC | Música",
+            "originalName": "★RC | Música",
+            "alias": "Música",
+            "displayName": "Música",
+            "hidden": false
+          },
+          {
+            "order": 6,
+            "key": "f_8ihqt4b1lw",
+            "id": "72176076",
+            "name": "★RC | Notícias",
+            "originalName": "★RC | Notícias",
+            "alias": "Notícias",
+            "displayName": "Notícias",
+            "hidden": false
+          },
+          {
+            "order": 7,
+            "key": "f_vxud7fb1lw",
+            "id": "1268519275",
+            "name": "★RC | Religiosos",
+            "originalName": "★RC | Religiosos",
+            "alias": "Religiosos",
+            "displayName": "Religiosos",
+            "hidden": false
+          },
+          {
+            "order": 8,
+            "key": "f_ngtwkfb1lw",
+            "id": "2591082408",
+            "name": "★RC | Séries",
+            "originalName": "★RC | Séries",
+            "alias": "Séries",
+            "displayName": "Séries",
+            "hidden": false
+          },
+          {
+            "order": 9,
+            "key": "f_0qod3lb1lw",
+            "id": "3232468210",
+            "name": "★RC | Variedades",
+            "originalName": "★RC | Variedades",
+            "alias": "Variedades",
+            "displayName": "Variedades",
+            "hidden": false
+          },
+          {
+            "order": 10,
+            "key": "f_lq9m4zln1k",
+            "id": "l_open",
+            "name": "Canais Abertos 24h",
+            "originalName": "Canais Abertos 24h",
+            "displayName": "Canais Abertos 24h",
+            "hidden": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "srv_7ksbydoapk",
+      "name": "saimo-tv2.pages.dev",
+      "url": "https://saimo-tv2.pages.dev",
+      "hostKey": "saimo-tv2.pages.dev",
+      "active": true,
+      "enabled": true,
+      "isOpenServer": true,
+      "lockFolders": true,
+      "updatedAt": 1795480377481,
+      "folders": {
+        "movies": [
+          {
+            "order": 0,
+            "key": "f_6xwe06bzsw",
+            "id": "saimo_mov_alta",
+            "name": "Filmes - Lançamentos & Em Alta",
+            "originalName": "Filmes - Lançamentos & Em Alta",
+            "displayName": "Filmes - Lançamentos & Em Alta",
+            "hidden": false
+          },
+          {
+            "order": 1,
+            "key": "f_1kgp09bzsw",
+            "id": "saimo_mov_a",
+            "name": "Filmes - Letra A",
+            "originalName": "Filmes - Letra A",
+            "displayName": "Filmes - Letra A",
+            "hidden": false
+          },
+          {
+            "order": 2,
+            "key": "f_dlz4f6bzsw",
+            "id": "saimo_mov_b",
+            "name": "Filmes - Letra B",
+            "originalName": "Filmes - Letra B",
+            "displayName": "Filmes - Letra B",
+            "hidden": false
+          },
+          {
+            "order": 3,
+            "key": "f_71smfsbzsw",
+            "id": "saimo_mov_c",
+            "name": "Filmes - Letra C",
+            "originalName": "Filmes - Letra C",
+            "displayName": "Filmes - Letra C",
+            "hidden": false
+          },
+          {
+            "order": 4,
+            "key": "f_qhu12ibzsw",
+            "id": "saimo_mov_d",
+            "name": "Filmes - Letra D",
+            "originalName": "Filmes - Letra D",
+            "displayName": "Filmes - Letra D",
+            "hidden": false
+          },
+          {
+            "order": 5,
+            "key": "f_pmpnilbzsw",
+            "id": "saimo_mov_e",
+            "name": "Filmes - Letra E",
+            "originalName": "Filmes - Letra E",
+            "displayName": "Filmes - Letra E",
+            "hidden": false
+          },
+          {
+            "order": 6,
+            "key": "f_3duxcrbzsw",
+            "id": "saimo_mov_f",
+            "name": "Filmes - Letra F",
+            "originalName": "Filmes - Letra F",
+            "displayName": "Filmes - Letra F",
+            "hidden": false
+          },
+          {
+            "order": 7,
+            "key": "f_p6592xbzsw",
+            "id": "saimo_mov_g",
+            "name": "Filmes - Letra G",
+            "originalName": "Filmes - Letra G",
+            "displayName": "Filmes - Letra G",
+            "hidden": false
+          },
+          {
+            "order": 8,
+            "key": "f_bysdwjbzsw",
+            "id": "saimo_mov_m",
+            "name": "Filmes - Letra M",
+            "originalName": "Filmes - Letra M",
+            "displayName": "Filmes - Letra M",
+            "hidden": false
+          },
+          {
+            "order": 9,
+            "key": "f_etjndubzsw",
+            "id": "saimo_mov_o",
+            "name": "Filmes - Letra O",
+            "originalName": "Filmes - Letra O",
+            "displayName": "Filmes - Letra O",
+            "hidden": false
+          },
+          {
+            "order": 10,
+            "key": "f_9x983xbzsw",
+            "id": "saimo_mov_s",
+            "name": "Filmes - Letra S",
+            "originalName": "Filmes - Letra S",
+            "displayName": "Filmes - Letra S",
+            "hidden": false
+          },
+          {
+            "order": 11,
+            "key": "f_fqqx5hbzsw",
+            "id": "saimo_mov_t",
+            "name": "Filmes - Letra T",
+            "originalName": "Filmes - Letra T",
+            "displayName": "Filmes - Letra T",
+            "hidden": false
+          },
+          {
+            "order": 12,
+            "key": "f_o8udixbzsw",
+            "id": "saimo_mov_animacao",
+            "name": "Filmes - Animação & Kids",
+            "originalName": "Filmes - Animação & Kids",
+            "displayName": "Filmes - Animação & Kids",
+            "hidden": false
+          },
+          {
+            "order": 13,
+            "key": "f_vp9s3xbzsw",
+            "id": "saimo_mov_doc",
+            "name": "Filmes - Documentários",
+            "originalName": "Filmes - Documentários",
+            "displayName": "Filmes - Documentários",
+            "hidden": false
+          }
+        ],
+        "series": [
+          {
+            "order": 0,
+            "key": "f_jdipydbzsw",
+            "id": "saimo_ser_alta",
+            "name": "Séries - Em Alta & Novidades",
+            "originalName": "Séries - Em Alta & Novidades",
+            "displayName": "Séries - Em Alta & Novidades",
+            "hidden": false
+          },
+          {
+            "order": 1,
+            "key": "f_maao12bzsw",
+            "id": "saimo_ser_a",
+            "name": "Séries - Letra A",
+            "originalName": "Séries - Letra A",
+            "displayName": "Séries - Letra A",
+            "hidden": false
+          },
+          {
+            "order": 2,
+            "key": "f_hhd9aobzsw",
+            "id": "saimo_ser_b",
+            "name": "Séries - Letra B",
+            "originalName": "Séries - Letra B",
+            "displayName": "Séries - Letra B",
+            "hidden": false
+          },
+          {
+            "order": 3,
+            "key": "f_ala1jgbzsw",
+            "id": "saimo_ser_c",
+            "name": "Séries - Letra C",
+            "originalName": "Séries - Letra C",
+            "displayName": "Séries - Letra C",
+            "hidden": false
+          },
+          {
+            "order": 4,
+            "key": "f_p49p05bzsw",
+            "id": "saimo_ser_d",
+            "name": "Séries - Letra D",
+            "originalName": "Séries - Letra D",
+            "displayName": "Séries - Letra D",
+            "hidden": false
+          },
+          {
+            "order": 5,
+            "key": "f_h57e7zbzsw",
+            "id": "saimo_ser_m",
+            "name": "Séries - Letra M",
+            "originalName": "Séries - Letra M",
+            "displayName": "Séries - Letra M",
+            "hidden": false
+          },
+          {
+            "order": 6,
+            "key": "f_svgdyqbzsw",
+            "id": "saimo_ser_s",
+            "name": "Séries - Letra S",
+            "originalName": "Séries - Letra S",
+            "displayName": "Séries - Letra S",
+            "hidden": false
+          },
+          {
+            "order": 7,
+            "key": "f_ou9hqobzsw",
+            "id": "saimo_ser_t",
+            "name": "Séries - Letra T",
+            "originalName": "Séries - Letra T",
+            "displayName": "Séries - Letra T",
+            "hidden": false
+          },
+          {
+            "order": 8,
+            "key": "f_7e48uxbzsw",
+            "id": "saimo_ser_novelas",
+            "name": "Novelas & Doramas",
+            "originalName": "Novelas & Doramas",
+            "displayName": "Novelas & Doramas",
+            "hidden": false
+          },
+          {
+            "order": 9,
+            "key": "f_wz71x0bzsw",
+            "id": "saimo_ser_animes",
+            "name": "Animes",
+            "originalName": "Animes",
+            "displayName": "Animes",
+            "hidden": false
+          }
+        ],
+        "live": [
+          {
+            "order": 0,
+            "key": "f_64dficbzsw",
+            "id": "saimo_document_rios",
+            "name": "Documentários",
+            "originalName": "Documentários",
+            "displayName": "Documentários",
+            "hidden": false
+          },
+          {
+            "order": 1,
+            "key": "f_jsrxvobzsw",
+            "id": "saimo_variedades",
+            "name": "Variedades",
+            "originalName": "Variedades",
+            "displayName": "Variedades",
+            "hidden": false
+          },
+          {
+            "order": 2,
+            "key": "f_juvw1lbzsw",
+            "id": "saimo_filmes_e_s_ries",
+            "name": "Filmes e Séries",
+            "originalName": "Filmes e Séries",
+            "displayName": "Filmes e Séries",
+            "hidden": false
+          },
+          {
+            "order": 3,
+            "key": "f_3q4de0bzsw",
+            "id": "saimo_tv_aberta",
+            "name": "TV Aberta",
+            "originalName": "TV Aberta",
+            "displayName": "TV Aberta",
+            "hidden": false
+          },
+          {
+            "order": 4,
+            "key": "f_667kwrbzsw",
+            "id": "saimo_infantil",
+            "name": "Infantil",
+            "originalName": "Infantil",
+            "displayName": "Infantil",
+            "hidden": false
+          },
+          {
+            "order": 5,
+            "key": "f_rsskgkbzsw",
+            "id": "saimo_not_cias",
+            "name": "Notícias",
+            "originalName": "Notícias",
+            "displayName": "Notícias",
+            "hidden": false
+          },
+          {
+            "order": 6,
+            "key": "f_t7fcu2bzsw",
+            "id": "saimo_esportes",
+            "name": "Esportes",
+            "originalName": "Esportes",
+            "displayName": "Esportes",
+            "hidden": false
+          },
+          {
+            "order": 7,
+            "key": "f_sxt3hybzsw",
+            "id": "saimo_24_horas",
+            "name": "24 Horas",
+            "originalName": "24 Horas",
+            "displayName": "24 Horas",
+            "hidden": false
+          },
+          {
+            "order": 8,
+            "key": "f_xbu89tbzsw",
+            "id": "saimo_pluto_tv",
+            "name": "Pluto TV",
+            "originalName": "Pluto TV",
+            "displayName": "Pluto TV",
+            "hidden": false
+          },
+          {
+            "order": 9,
+            "key": "f_fcvsnwbzsw",
+            "id": "saimo_ppv",
+            "name": "PPV",
+            "originalName": "PPV",
+            "displayName": "PPV",
+            "hidden": false
+          },
+          {
+            "order": 10,
+            "key": "f_oh8g0vbzsw",
+            "id": "saimo_m_sicas",
+            "name": "Músicas",
+            "originalName": "Músicas",
+            "displayName": "Músicas",
+            "hidden": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "srv_cz0w3h91dw",
+      "name": "raw.githubusercontent.com",
+      "url": "https://raw.githubusercontent.com/inovecabo/i9-Player/main/remote/v4/playlists/playlist_mac_00_e0_b4_9a_cb_8e_mvlj8zno.txt",
+      "hostKey": "raw.githubusercontent.com",
+      "active": true,
+      "enabled": true,
+      "isOpenServer": false,
+      "lockFolders": true,
+      "updatedAt": 1795480377481,
+      "folders": {
+        "movies": [
+          {
+            "order": 0,
+            "key": "f_2hvrh9bssd",
+            "id": "24188",
+            "name": "Lançamentos",
+            "originalName": "Lançamentos",
+            "displayName": "Lançamentos",
+            "hidden": false
+          },
+          {
+            "order": 1,
+            "key": "f_f52ydfbssd",
+            "id": "14223",
+            "name": "Amazon Prime Video",
+            "originalName": "Amazon Prime Video",
+            "displayName": "Amazon Prime Video",
+            "hidden": false
+          },
+          {
+            "order": 2,
+            "key": "f_t2dbp7bssd",
+            "id": "14226",
+            "name": "Apple TV+",
+            "originalName": "Apple TV+",
+            "displayName": "Apple TV+",
+            "hidden": false
+          },
+          {
+            "order": 3,
+            "key": "f_pixvzmbssd",
+            "id": "15105",
+            "name": "Discovery+",
+            "originalName": "Discovery+",
+            "displayName": "Discovery+",
+            "hidden": false
+          },
+          {
+            "order": 4,
+            "key": "f_096u2vbssd",
+            "id": "14221",
+            "name": "Disney+",
+            "originalName": "Disney+",
+            "displayName": "Disney+",
+            "hidden": false
+          },
+          {
+            "order": 5,
+            "key": "f_ipcs9zbssd",
+            "id": "14224",
+            "name": "Globoplay",
+            "originalName": "Globoplay",
+            "displayName": "Globoplay",
+            "hidden": false
+          },
+          {
+            "order": 6,
+            "key": "f_a013hybssd",
+            "id": "14225",
+            "name": "HBO Max",
+            "originalName": "HBO Max",
+            "displayName": "HBO Max",
+            "hidden": false
+          },
+          {
+            "order": 7,
+            "key": "f_qm2c18bssd",
+            "id": "17513",
+            "name": "Lionsgate+",
+            "originalName": "Lionsgate+",
+            "displayName": "Lionsgate+",
+            "hidden": false
+          },
+          {
+            "order": 8,
+            "key": "f_m6bmiqbssd",
+            "id": "14222",
+            "name": "Netflix",
+            "originalName": "Netflix",
+            "displayName": "Netflix",
+            "hidden": false
+          },
+          {
+            "order": 9,
+            "key": "f_vzubfpbssd",
+            "id": "14919",
+            "name": "Paramount+",
+            "originalName": "Paramount+",
+            "displayName": "Paramount+",
+            "hidden": false
+          },
+          {
+            "order": 10,
+            "key": "f_cp3jgabssd",
+            "id": "2516",
+            "name": "Ação",
+            "originalName": "Ação",
+            "displayName": "Ação",
+            "hidden": false
+          },
+          {
+            "order": 11,
+            "key": "f_99h9dobssd",
+            "id": "2517",
+            "name": "Animação",
+            "originalName": "Animação",
+            "displayName": "Animação",
+            "hidden": false
+          },
+          {
+            "order": 12,
+            "key": "f_e5msjvbssd",
+            "id": "2572",
+            "name": "Anime",
+            "originalName": "Anime",
+            "displayName": "Anime",
+            "hidden": false
+          },
+          {
+            "order": 13,
+            "key": "f_rhs31zbssd",
+            "id": "2518",
+            "name": "Aventura",
+            "originalName": "Aventura",
+            "displayName": "Aventura",
+            "hidden": false
+          },
+          {
+            "order": 14,
+            "key": "f_eil4k2bssd",
+            "id": "2773",
+            "name": "Biografia",
+            "originalName": "Biografia",
+            "displayName": "Biografia",
+            "hidden": false
+          },
+          {
+            "order": 15,
+            "key": "f_254fwbbssd",
+            "id": "2519",
+            "name": "Comédia",
+            "originalName": "Comédia",
+            "displayName": "Comédia",
+            "hidden": false
+          },
+          {
+            "order": 16,
+            "key": "f_9ifr4vbssd",
+            "id": "2520",
+            "name": "Comédia Romântica",
+            "originalName": "Comédia Romântica",
+            "displayName": "Comédia Romântica",
+            "hidden": false
+          },
+          {
+            "order": 17,
+            "key": "f_0cumrgbssd",
+            "id": "2521",
+            "name": "Documentário",
+            "originalName": "Documentário",
+            "displayName": "Documentário",
+            "hidden": false
+          },
+          {
+            "order": 18,
+            "key": "f_x0y7jpbssd",
+            "id": "24389",
+            "name": "Doramas",
+            "originalName": "Doramas",
+            "displayName": "Doramas",
+            "hidden": false
+          },
+          {
+            "order": 19,
+            "key": "f_8hb33dbssd",
+            "id": "2522",
+            "name": "Drama",
+            "originalName": "Drama",
+            "displayName": "Drama",
+            "hidden": false
+          },
+          {
+            "order": 20,
+            "key": "f_6a2wbsbssd",
+            "id": "2737",
+            "name": "Erótico",
+            "originalName": "Erótico",
+            "displayName": "Erótico",
+            "hidden": false
+          },
+          {
+            "order": 21,
+            "key": "f_twldxjbssd",
+            "id": "2581",
+            "name": "Épico",
+            "originalName": "Épico",
+            "displayName": "Épico",
+            "hidden": false
+          },
+          {
+            "order": 22,
+            "key": "f_ga9anibssd",
+            "id": "7721",
+            "name": "Extras",
+            "originalName": "Extras",
+            "displayName": "Extras",
+            "hidden": false
+          },
+          {
+            "order": 23,
+            "key": "f_c8ucjkbssd",
+            "id": "2684",
+            "name": "Família",
+            "originalName": "Família",
+            "displayName": "Família",
+            "hidden": false
+          },
+          {
+            "order": 24,
+            "key": "f_ddumb6bssd",
+            "id": "2583",
+            "name": "Fantasia",
+            "originalName": "Fantasia",
+            "displayName": "Fantasia",
+            "hidden": false
+          },
+          {
+            "order": 25,
+            "key": "f_royglqbssd",
+            "id": "2523",
+            "name": "Faroeste",
+            "originalName": "Faroeste",
+            "displayName": "Faroeste",
+            "hidden": false
+          },
+          {
+            "order": 26,
+            "key": "f_iwbwlqbssd",
+            "id": "2524",
+            "name": "Ficção Científica",
+            "originalName": "Ficção Científica",
+            "displayName": "Ficção Científica",
+            "hidden": false
+          },
+          {
+            "order": 27,
+            "key": "f_2lcibqbssd",
+            "id": "2584",
+            "name": "Guerra",
+            "originalName": "Guerra",
+            "displayName": "Guerra",
+            "hidden": false
+          },
+          {
+            "order": 28,
+            "key": "f_r47s6ybssd",
+            "id": "2595",
+            "name": "Histórico",
+            "originalName": "Histórico",
+            "displayName": "Histórico",
+            "hidden": false
+          },
+          {
+            "order": 29,
+            "key": "f_2dehivbssd",
+            "id": "2525",
+            "name": "Musical",
+            "originalName": "Musical",
+            "displayName": "Musical",
+            "hidden": false
+          },
+          {
+            "order": 30,
+            "key": "f_c55ji7bssd",
+            "id": "2693",
+            "name": "Policial",
+            "originalName": "Policial",
+            "displayName": "Policial",
+            "hidden": false
+          },
+          {
+            "order": 31,
+            "key": "f_kqhfhhbssd",
+            "id": "6669",
+            "name": "Religioso",
+            "originalName": "Religioso",
+            "displayName": "Religioso",
+            "hidden": false
+          },
+          {
+            "order": 32,
+            "key": "f_ogmu65bssd",
+            "id": "2526",
+            "name": "Romance",
+            "originalName": "Romance",
+            "displayName": "Romance",
+            "hidden": false
+          },
+          {
+            "order": 33,
+            "key": "f_yheoyubssd",
+            "id": "2688",
+            "name": "Show",
+            "originalName": "Show",
+            "displayName": "Show",
+            "hidden": false
+          },
+          {
+            "order": 34,
+            "key": "f_n5f6knbssd",
+            "id": "2527",
+            "name": "Suspense",
+            "originalName": "Suspense",
+            "displayName": "Suspense",
+            "hidden": false
+          },
+          {
+            "order": 35,
+            "key": "f_ippw1zbssd",
+            "id": "2528",
+            "name": "Terror",
+            "originalName": "Terror",
+            "displayName": "Terror",
+            "hidden": false
+          },
+          {
+            "order": 36,
+            "key": "f_bc8fy2bssd",
+            "id": "2558",
+            "name": "Legendado | Ação",
+            "originalName": "Legendado | Ação",
+            "displayName": "Legendado | Ação",
+            "hidden": false
+          },
+          {
+            "order": 37,
+            "key": "f_zknk40bssd",
+            "id": "2573",
+            "name": "Legendado | Animação",
+            "originalName": "Legendado | Animação",
+            "displayName": "Legendado | Animação",
+            "hidden": false
+          },
+          {
+            "order": 38,
+            "key": "f_kpz5f0bssd",
+            "id": "2559",
+            "name": "Legendado | Anime",
+            "originalName": "Legendado | Anime",
+            "displayName": "Legendado | Anime",
+            "hidden": false
+          },
+          {
+            "order": 39,
+            "key": "f_ftldpobssd",
+            "id": "2560",
+            "name": "Legendado | Aventura",
+            "originalName": "Legendado | Aventura",
+            "displayName": "Legendado | Aventura",
+            "hidden": false
+          },
+          {
+            "order": 40,
+            "key": "f_uf5877bssd",
+            "id": "4454",
+            "name": "Legendado | Biografia",
+            "originalName": "Legendado | Biografia",
+            "displayName": "Legendado | Biografia",
+            "hidden": false
+          },
+          {
+            "order": 41,
+            "key": "f_qeupjnbssd",
+            "id": "2561",
+            "name": "Legendado | Comédia",
+            "originalName": "Legendado | Comédia",
+            "displayName": "Legendado | Comédia",
+            "hidden": false
+          },
+          {
+            "order": 42,
+            "key": "f_xghl2ibssd",
+            "id": "2562",
+            "name": "Legendado | Comédia Romântica",
+            "originalName": "Legendado | Comédia Romântica",
+            "displayName": "Legendado | Comédia Romântica",
+            "hidden": false
+          },
+          {
+            "order": 43,
+            "key": "f_1jt7o2bssd",
+            "id": "2563",
+            "name": "Legendado | Documentário",
+            "originalName": "Legendado | Documentário",
+            "displayName": "Legendado | Documentário",
+            "hidden": false
+          },
+          {
+            "order": 44,
+            "key": "f_x6pfqgbssd",
+            "id": "2564",
+            "name": "Legendado | Drama",
+            "originalName": "Legendado | Drama",
+            "displayName": "Legendado | Drama",
+            "hidden": false
+          },
+          {
+            "order": 45,
+            "key": "f_q00ueqbssd",
+            "id": "2683",
+            "name": "Legendado | Fantasia",
+            "originalName": "Legendado | Fantasia",
+            "displayName": "Legendado | Fantasia",
+            "hidden": false
+          },
+          {
+            "order": 46,
+            "key": "f_t1liucbssd",
+            "id": "2565",
+            "name": "Legendado | Faroeste",
+            "originalName": "Legendado | Faroeste",
+            "displayName": "Legendado | Faroeste",
+            "hidden": false
+          },
+          {
+            "order": 47,
+            "key": "f_4tsmoxbssd",
+            "id": "2566",
+            "name": "Legendado | Ficção Científica",
+            "originalName": "Legendado | Ficção Científica",
+            "displayName": "Legendado | Ficção Científica",
+            "hidden": false
+          },
+          {
+            "order": 48,
+            "key": "f_0mnf42bssd",
+            "id": "2685",
+            "name": "Legendado | Guerra",
+            "originalName": "Legendado | Guerra",
+            "displayName": "Legendado | Guerra",
+            "hidden": false
+          },
+          {
+            "order": 49,
+            "key": "f_mpbyr9bssd",
+            "id": "4455",
+            "name": "Legendado | Histórico",
+            "originalName": "Legendado | Histórico",
+            "displayName": "Legendado | Histórico",
+            "hidden": false
+          },
+          {
+            "order": 50,
+            "key": "f_mrp30bbssd",
+            "id": "2567",
+            "name": "Legendado | Musical",
+            "originalName": "Legendado | Musical",
+            "displayName": "Legendado | Musical",
+            "hidden": false
+          },
+          {
+            "order": 51,
+            "key": "f_2ip16fbssd",
+            "id": "2568",
+            "name": "Legendado | Romance",
+            "originalName": "Legendado | Romance",
+            "displayName": "Legendado | Romance",
+            "hidden": false
+          },
+          {
+            "order": 52,
+            "key": "f_o1ajdebssd",
+            "id": "2738",
+            "name": "Legendado | Show",
+            "originalName": "Legendado | Show",
+            "displayName": "Legendado | Show",
+            "hidden": false
+          },
+          {
+            "order": 53,
+            "key": "f_i9nokcbssd",
+            "id": "2569",
+            "name": "Legendado | Suspense",
+            "originalName": "Legendado | Suspense",
+            "displayName": "Legendado | Suspense",
+            "hidden": false
+          },
+          {
+            "order": 54,
+            "key": "f_3behvkbssd",
+            "id": "2570",
+            "name": "Legendado | Terror",
+            "originalName": "Legendado | Terror",
+            "displayName": "Legendado | Terror",
+            "hidden": false
+          }
+        ],
+        "series": [
+          {
+            "order": 0,
+            "key": "f_g54u26bssd",
+            "id": "1000",
+            "name": "Amazon Prime Video",
+            "originalName": "Amazon Prime Video",
+            "displayName": "Amazon Prime Video",
+            "hidden": false
+          },
+          {
+            "order": 1,
+            "key": "f_1bpyuzbssd",
+            "id": "1001",
+            "name": "Apple TV+",
+            "originalName": "Apple TV+",
+            "displayName": "Apple TV+",
+            "hidden": false
+          },
+          {
+            "order": 2,
+            "key": "f_l7ux9ubssd",
+            "id": "1002",
+            "name": "Discovery+",
+            "originalName": "Discovery+",
+            "displayName": "Discovery+",
+            "hidden": false
+          },
+          {
+            "order": 3,
+            "key": "f_2ynhx5bssd",
+            "id": "1003",
+            "name": "Disney+",
+            "originalName": "Disney+",
+            "displayName": "Disney+",
+            "hidden": false
+          },
+          {
+            "order": 4,
+            "key": "f_3b0m2tbssd",
+            "id": "1004",
+            "name": "Globoplay",
+            "originalName": "Globoplay",
+            "displayName": "Globoplay",
+            "hidden": false
+          },
+          {
+            "order": 5,
+            "key": "f_54cqk6bssd",
+            "id": "1005",
+            "name": "HBO Max",
+            "originalName": "HBO Max",
+            "displayName": "HBO Max",
+            "hidden": false
+          },
+          {
+            "order": 6,
+            "key": "f_il6lt2bssd",
+            "id": "1006",
+            "name": "Lionsgate+",
+            "originalName": "Lionsgate+",
+            "displayName": "Lionsgate+",
+            "hidden": false
+          },
+          {
+            "order": 7,
+            "key": "f_zd30bhbssd",
+            "id": "1007",
+            "name": "Netflix",
+            "originalName": "Netflix",
+            "displayName": "Netflix",
+            "hidden": false
+          },
+          {
+            "order": 8,
+            "key": "f_evh192bssd",
+            "id": "1008",
+            "name": "Paramount+",
+            "originalName": "Paramount+",
+            "displayName": "Paramount+",
+            "hidden": false
+          },
+          {
+            "order": 9,
+            "key": "f_e00ropbssd",
+            "id": "2002",
+            "name": "Animes",
+            "originalName": "Animes",
+            "displayName": "Animes",
+            "hidden": false
+          },
+          {
+            "order": 10,
+            "key": "f_2s4akdbssd",
+            "id": "2003",
+            "name": "Desenhos",
+            "originalName": "Desenhos",
+            "displayName": "Desenhos",
+            "hidden": false
+          },
+          {
+            "order": 11,
+            "key": "f_gw9m03bssd",
+            "id": "1009",
+            "name": "Doramas",
+            "originalName": "Doramas",
+            "displayName": "Doramas",
+            "hidden": false
+          },
+          {
+            "order": 12,
+            "key": "f_8jtrudbssd",
+            "id": "2004",
+            "name": "Novelas",
+            "originalName": "Novelas",
+            "displayName": "Novelas",
+            "hidden": false
+          },
+          {
+            "order": 13,
+            "key": "f_ux59krbssd",
+            "id": "2001",
+            "name": "Letra - A",
+            "originalName": "Letra - A",
+            "displayName": "Letra - A",
+            "hidden": false
+          },
+          {
+            "order": 14,
+            "key": "f_f0ycy4bssd",
+            "id": "2011",
+            "name": "Letra - B",
+            "originalName": "Letra - B",
+            "displayName": "Letra - B",
+            "hidden": false
+          },
+          {
+            "order": 15,
+            "key": "f_csnt02bssd",
+            "id": "2021",
+            "name": "Letra - C",
+            "originalName": "Letra - C",
+            "displayName": "Letra - C",
+            "hidden": false
+          },
+          {
+            "order": 16,
+            "key": "f_3b4cvpbssd",
+            "id": "2031",
+            "name": "Letra - D",
+            "originalName": "Letra - D",
+            "displayName": "Letra - D",
+            "hidden": false
+          },
+          {
+            "order": 17,
+            "key": "f_enubhvbssd",
+            "id": "2041",
+            "name": "Letra - E",
+            "originalName": "Letra - E",
+            "displayName": "Letra - E",
+            "hidden": false
+          },
+          {
+            "order": 18,
+            "key": "f_kqw0ahbssd",
+            "id": "2051",
+            "name": "Letra - F",
+            "originalName": "Letra - F",
+            "displayName": "Letra - F",
+            "hidden": false
+          },
+          {
+            "order": 19,
+            "key": "f_u6b2kpbssd",
+            "id": "2061",
+            "name": "Letra - G",
+            "originalName": "Letra - G",
+            "displayName": "Letra - G",
+            "hidden": false
+          },
+          {
+            "order": 20,
+            "key": "f_hhiom8bssd",
+            "id": "2071",
+            "name": "Letra - H",
+            "originalName": "Letra - H",
+            "displayName": "Letra - H",
+            "hidden": false
+          },
+          {
+            "order": 21,
+            "key": "f_37ucg3bssd",
+            "id": "2081",
+            "name": "Letra - I",
+            "originalName": "Letra - I",
+            "displayName": "Letra - I",
+            "hidden": false
+          },
+          {
+            "order": 22,
+            "key": "f_9869kebssd",
+            "id": "2091",
+            "name": "Letra - J",
+            "originalName": "Letra - J",
+            "displayName": "Letra - J",
+            "hidden": false
+          },
+          {
+            "order": 23,
+            "key": "f_mck4bdbssd",
+            "id": "2101",
+            "name": "Letra - K",
+            "originalName": "Letra - K",
+            "displayName": "Letra - K",
+            "hidden": false
+          },
+          {
+            "order": 24,
+            "key": "f_ijrxqbbssd",
+            "id": "2111",
+            "name": "Letra - L",
+            "originalName": "Letra - L",
+            "displayName": "Letra - L",
+            "hidden": false
+          },
+          {
+            "order": 25,
+            "key": "f_jny234bssd",
+            "id": "2121",
+            "name": "Letra - M",
+            "originalName": "Letra - M",
+            "displayName": "Letra - M",
+            "hidden": false
+          },
+          {
+            "order": 26,
+            "key": "f_wuckwcbssd",
+            "id": "2131",
+            "name": "Letra - N",
+            "originalName": "Letra - N",
+            "displayName": "Letra - N",
+            "hidden": false
+          },
+          {
+            "order": 27,
+            "key": "f_aqsf22bssd",
+            "id": "2141",
+            "name": "Letra - O",
+            "originalName": "Letra - O",
+            "displayName": "Letra - O",
+            "hidden": false
+          },
+          {
+            "order": 28,
+            "key": "f_9e41swbssd",
+            "id": "2151",
+            "name": "Letra - P",
+            "originalName": "Letra - P",
+            "displayName": "Letra - P",
+            "hidden": false
+          },
+          {
+            "order": 29,
+            "key": "f_46iblibssd",
+            "id": "2161",
+            "name": "Letra - Q",
+            "originalName": "Letra - Q",
+            "displayName": "Letra - Q",
+            "hidden": false
+          },
+          {
+            "order": 30,
+            "key": "f_pveq7ibssd",
+            "id": "2171",
+            "name": "Letra - R",
+            "originalName": "Letra - R",
+            "displayName": "Letra - R",
+            "hidden": false
+          },
+          {
+            "order": 31,
+            "key": "f_kfz94ubssd",
+            "id": "2181",
+            "name": "Letra - S",
+            "originalName": "Letra - S",
+            "displayName": "Letra - S",
+            "hidden": false
+          },
+          {
+            "order": 32,
+            "key": "f_45j32mbssd",
+            "id": "2191",
+            "name": "Letra - T",
+            "originalName": "Letra - T",
+            "displayName": "Letra - T",
+            "hidden": false
+          },
+          {
+            "order": 33,
+            "key": "f_4w8qn8bssd",
+            "id": "2201",
+            "name": "Letra - U",
+            "originalName": "Letra - U",
+            "displayName": "Letra - U",
+            "hidden": false
+          },
+          {
+            "order": 34,
+            "key": "f_ipcpqtbssd",
+            "id": "2211",
+            "name": "Letra - V",
+            "originalName": "Letra - V",
+            "displayName": "Letra - V",
+            "hidden": false
+          },
+          {
+            "order": 35,
+            "key": "f_9lp8t7bssd",
+            "id": "2221",
+            "name": "Letra - W",
+            "originalName": "Letra - W",
+            "displayName": "Letra - W",
+            "hidden": false
+          },
+          {
+            "order": 36,
+            "key": "f_af7pycbssd",
+            "id": "2231",
+            "name": "Letra - X",
+            "originalName": "Letra - X",
+            "displayName": "Letra - X",
+            "hidden": false
+          },
+          {
+            "order": 37,
+            "key": "f_grmaytbssd",
+            "id": "2241",
+            "name": "Letra - Y",
+            "originalName": "Letra - Y",
+            "displayName": "Letra - Y",
+            "hidden": false
+          },
+          {
+            "order": 38,
+            "key": "f_psurb9bssd",
+            "id": "2251",
+            "name": "Letra - Z",
+            "originalName": "Letra - Z",
+            "displayName": "Letra - Z",
+            "hidden": false
+          },
+          {
+            "order": 39,
+            "key": "f_jxsfukbssd",
+            "id": "2261",
+            "name": "Números & Símbolos",
+            "originalName": "Números & Símbolos",
+            "displayName": "Números & Símbolos",
+            "hidden": false
+          }
+        ],
+        "live": [
+          {
+            "order": 0,
+            "key": "f_p9tve1bssd",
+            "id": "2206130670",
+            "name": "Canais Abertos",
+            "originalName": "Canais Abertos",
+            "displayName": "Canais Abertos",
+            "hidden": false
+          },
+          {
+            "order": 1,
+            "key": "f_bgvcmzbssd",
+            "id": "1451461857",
+            "name": "Documentários",
+            "originalName": "Documentários",
+            "displayName": "Documentários",
+            "hidden": false
+          },
+          {
+            "order": 2,
+            "key": "f_jce8cfbssd",
+            "id": "1914524096",
+            "name": "Esportes",
+            "originalName": "Esportes",
+            "displayName": "Esportes",
+            "hidden": false
+          },
+          {
+            "order": 3,
+            "key": "f_idql2ebssd",
+            "id": "1920355512",
+            "name": "Infantil",
+            "originalName": "Infantil",
+            "displayName": "Infantil",
+            "hidden": false
+          },
+          {
+            "order": 4,
+            "key": "f_yew3vobssd",
+            "id": "2542697666",
+            "name": "Música",
+            "originalName": "Música",
+            "displayName": "Música",
+            "hidden": false
+          },
+          {
+            "order": 5,
+            "key": "f_mafoo0bssd",
+            "id": "72176076",
+            "name": "Notícias",
+            "originalName": "Notícias",
+            "displayName": "Notícias",
+            "hidden": false
+          },
+          {
+            "order": 6,
+            "key": "f_vuobp1bssd",
+            "id": "1268519275",
+            "name": "Religiosos",
+            "originalName": "Religiosos",
+            "displayName": "Religiosos",
+            "hidden": false
+          },
+          {
+            "order": 7,
+            "key": "f_vnm858bssd",
+            "id": "3232468210",
+            "name": "Variedades",
+            "originalName": "Variedades",
+            "displayName": "Variedades",
+            "hidden": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "srv_ks7xtaimjx",
+      "name": "nanoignite.click",
+      "url": "http://nanoignite.click",
+      "hostKey": "nanoignite.click",
+      "active": true,
+      "enabled": true,
+      "isOpenServer": false,
+      "lockFolders": true,
+      "updatedAt": 1795480377481,
+      "folders": {
+        "movies": [
+          {
+            "order": 0,
+            "key": "f_bdtm2timjx",
+            "id": "33",
+            "name": "Filmes | 4K",
+            "originalName": "Filmes | 4K",
+            "displayName": "Filmes | 4K",
+            "hidden": false
+          },
+          {
+            "order": 1,
+            "key": "f_kdv08mimjx",
+            "id": "1000051",
+            "name": "Filmes | Lançamentos 2026",
+            "originalName": "Filmes | Lançamentos 2026",
+            "displayName": "Filmes | Lançamentos 2026",
+            "hidden": false
+          },
+          {
+            "order": 2,
+            "key": "f_7tpxe6imjx",
+            "id": "1000026",
+            "name": "Filmes | Lançamentos 2025",
+            "originalName": "Filmes | Lançamentos 2025",
+            "displayName": "Filmes | Lançamentos 2025",
+            "hidden": false
+          },
+          {
+            "order": 3,
+            "key": "f_bk14bximjx",
+            "id": "135",
+            "name": "Filmes | Apple TV+",
+            "originalName": "Filmes | Apple TV+",
+            "alias": "Apple TV+",
+            "displayName": "Apple TV+",
+            "hidden": false
+          },
+          {
+            "order": 4,
+            "key": "f_4lulmmimjx",
+            "id": "1000052",
+            "name": "Filmes/Netflix",
+            "originalName": "Filmes/Netflix",
+            "alias": "Netflix",
+            "displayName": "Netflix",
+            "hidden": false
+          },
+          {
+            "order": 5,
+            "key": "f_wxl4b4imjx",
+            "id": "1000075",
+            "name": "Filmes / Disney+ / Marvel",
+            "originalName": "Filmes / Disney+ / Marvel",
+            "alias": "Disney+",
+            "displayName": "Disney+",
+            "hidden": false
+          },
+          {
+            "order": 6,
+            "key": "f_rf1zebimjx",
+            "id": "1000076",
+            "name": "Filmes / HBO Max / DC",
+            "originalName": "Filmes / HBO Max / DC",
+            "alias": "HBO Max",
+            "displayName": "HBO Max",
+            "hidden": false
+          },
+          {
+            "order": 7,
+            "key": "f_d8dtd8imjx",
+            "id": "1000077",
+            "name": "Filmes / Look / Prime Video",
+            "originalName": "Filmes / Look / Prime Video",
+            "alias": "Prime Video",
+            "displayName": "Prime Video",
+            "hidden": false,
+            "mergedGroupId": "grp_p06727k0n0"
+          },
+          {
+            "order": 8,
+            "key": "f_nbqczqimjx",
+            "id": "131",
+            "name": "Filmes | Prime Video",
+            "originalName": "Filmes | Prime Video",
+            "alias": "Prime Video",
+            "displayName": "Prime Video",
+            "hidden": false,
+            "mergedGroupId": "grp_p06727k0n0"
+          },
+          {
+            "order": 9,
+            "key": "f_e88bdzimjx",
+            "id": "133",
+            "name": "Filmes | GloboPlay",
+            "originalName": "Filmes | GloboPlay",
+            "alias": "GloboPlay",
+            "displayName": "GloboPlay",
+            "hidden": false
+          },
+          {
+            "order": 10,
+            "key": "f_5io4jximjx",
+            "id": "134",
+            "name": "Filmes | Paramount +",
+            "originalName": "Filmes | Paramount +",
+            "alias": "Paramount +",
+            "displayName": "Paramount +",
+            "hidden": false
+          },
+          {
+            "order": 11,
+            "key": "f_uw1a2jimjx",
+            "id": "1000056",
+            "name": "Filmes/Mercado Play/MUBI/Plex/YouTube",
+            "originalName": "Filmes/Mercado Play/MUBI/Plex/YouTube",
+            "alias": "Mercado Play",
+            "displayName": "Mercado Play",
+            "hidden": false
+          },
+          {
+            "order": 12,
+            "key": "f_yzemwximjx",
+            "id": "45",
+            "name": "Filmes | Romance",
+            "originalName": "Filmes | Romance",
+            "displayName": "Filmes | Romance",
+            "hidden": false
+          },
+          {
+            "order": 13,
+            "key": "f_ysrfhcimjx",
+            "id": "1000057",
+            "name": "Filmes/Diversos",
+            "originalName": "Filmes/Diversos",
+            "displayName": "Filmes/Diversos",
+            "hidden": false
+          },
+          {
+            "order": 14,
+            "key": "f_yym4mkimjx",
+            "id": "1000073",
+            "name": "Filmes / Cinema / CAM",
+            "originalName": "Filmes / Cinema / CAM",
+            "displayName": "Filmes / Cinema / CAM",
+            "hidden": false
+          },
+          {
+            "order": 15,
+            "key": "f_m3rmusimjx",
+            "id": "40",
+            "name": "Filmes | Infantil",
+            "originalName": "Filmes | Infantil",
+            "displayName": "Filmes | Infantil",
+            "hidden": false
+          },
+          {
+            "order": 16,
+            "key": "f_0a1v8simjx",
+            "id": "34",
+            "name": "Filmes | Animação",
+            "originalName": "Filmes | Animação",
+            "displayName": "Filmes | Animação",
+            "hidden": false
+          },
+          {
+            "order": 17,
+            "key": "f_1w3v5gimjx",
+            "id": "1000072",
+            "name": "Filmes / Animes / Donghuas",
+            "originalName": "Filmes / Animes / Donghuas",
+            "displayName": "Filmes / Animes / Donghuas",
+            "hidden": false
+          },
+          {
+            "order": 18,
+            "key": "f_simffsimjx",
+            "id": "35",
+            "name": "Filmes | Comedia",
+            "originalName": "Filmes | Comedia",
+            "displayName": "Filmes | Comedia",
+            "hidden": false
+          },
+          {
+            "order": 19,
+            "key": "f_nq8v48imjx",
+            "id": "36",
+            "name": "Filmes | Drama",
+            "originalName": "Filmes | Drama",
+            "displayName": "Filmes | Drama",
+            "hidden": false
+          },
+          {
+            "order": 20,
+            "key": "f_t1ihnlimjx",
+            "id": "39",
+            "name": "Filmes | Ficção",
+            "originalName": "Filmes | Ficção",
+            "displayName": "Filmes | Ficção",
+            "hidden": false
+          },
+          {
+            "order": 21,
+            "key": "f_b3555dimjx",
+            "id": "47",
+            "name": "Filmes | Terror",
+            "originalName": "Filmes | Terror",
+            "displayName": "Filmes | Terror",
+            "hidden": false
+          },
+          {
+            "order": 22,
+            "key": "f_hsowg2imjx",
+            "id": "42",
+            "name": "Filmes | Suspense",
+            "originalName": "Filmes | Suspense",
+            "displayName": "Filmes | Suspense",
+            "hidden": false
+          },
+          {
+            "order": 23,
+            "key": "f_mqt858imjx",
+            "id": "38",
+            "name": "Filmes | Faroeste",
+            "originalName": "Filmes | Faroeste",
+            "displayName": "Filmes | Faroeste",
+            "hidden": false
+          },
+          {
+            "order": 24,
+            "key": "f_rvkwbsimjx",
+            "id": "93",
+            "name": "Filmes | Aventura",
+            "originalName": "Filmes | Aventura",
+            "displayName": "Filmes | Aventura",
+            "hidden": false
+          },
+          {
+            "order": 25,
+            "key": "f_auz5v2imjx",
+            "id": "74",
+            "name": "Filmes | Nacional",
+            "originalName": "Filmes | Nacional",
+            "displayName": "Filmes | Nacional",
+            "hidden": false
+          },
+          {
+            "order": 26,
+            "key": "f_2nplc5imjx",
+            "id": "77",
+            "name": "Filmes | Legendados",
+            "originalName": "Filmes | Legendados",
+            "displayName": "Filmes | Legendados",
+            "hidden": false
+          },
+          {
+            "order": 27,
+            "key": "f_pg3ni2imjx",
+            "id": "46",
+            "name": "Filmes | Documentarios",
+            "originalName": "Filmes | Documentarios",
+            "displayName": "Filmes | Documentarios",
+            "hidden": false
+          },
+          {
+            "order": 28,
+            "key": "f_xgdnvjimjx",
+            "id": "144",
+            "name": "Filmes | Sons Para Dormir",
+            "originalName": "Filmes | Sons Para Dormir",
+            "displayName": "Filmes | Sons Para Dormir",
+            "hidden": false
+          },
+          {
+            "order": 29,
+            "key": "f_9h8efdimjx",
+            "id": "1000019",
+            "name": "Shows",
+            "originalName": "Shows",
+            "displayName": "Shows",
+            "hidden": false
+          },
+          {
+            "order": 30,
+            "key": "f_c1qqjaimjx",
+            "id": "1000012",
+            "name": "Shows Rock in Rio 2024",
+            "originalName": "Shows Rock in Rio 2024",
+            "displayName": "Shows Rock in Rio 2024",
+            "hidden": false
+          },
+          {
+            "order": 31,
+            "key": "f_9fcdqiimjx",
+            "id": "85",
+            "name": "Shows Rock in Rio 2022",
+            "originalName": "Shows Rock in Rio 2022",
+            "displayName": "Shows Rock in Rio 2022",
+            "hidden": false
+          },
+          {
+            "order": 32,
+            "key": "f_abszmmimjx",
+            "id": "139",
+            "name": "Shows | Gospel",
+            "originalName": "Shows | Gospel",
+            "displayName": "Shows | Gospel",
+            "hidden": false
+          },
+          {
+            "order": 33,
+            "key": "f_jssm6rimjx",
+            "id": "1000020",
+            "name": "Stand Up Comedy",
+            "originalName": "Stand Up Comedy",
+            "displayName": "Stand Up Comedy",
+            "hidden": false
+          },
+          {
+            "order": 34,
+            "key": "f_ii1zsmimjx",
+            "id": "1000066",
+            "name": "Filmes | Copa Do Mundo 2026",
+            "originalName": "Filmes | Copa Do Mundo 2026",
+            "displayName": "Filmes | Copa Do Mundo 2026",
+            "hidden": false
+          },
+          {
+            "order": 35,
+            "key": "f_l7cqswimjx",
+            "id": "97",
+            "name": "Filmes | Copa Do Mundo 2022",
+            "originalName": "Filmes | Copa Do Mundo 2022",
+            "displayName": "Filmes | Copa Do Mundo 2022",
+            "hidden": false
+          },
+          {
+            "order": 36,
+            "key": "f_28nmsjimjx",
+            "id": "48",
+            "name": "Filmes | Adultos +18",
+            "originalName": "Filmes | Adultos +18",
+            "displayName": "Filmes | Adultos +18",
+            "hidden": false
+          },
+          {
+            "order": 37,
+            "key": "f_ew90ogimjx",
+            "id": "1000023",
+            "name": "Filmes | Adultos Gay +18",
+            "originalName": "Filmes | Adultos Gay +18",
+            "displayName": "Filmes | Adultos Gay +18",
+            "hidden": false
+          },
+          {
+            "order": 38,
+            "key": "f_tctwo3imjx",
+            "id": "1000024",
+            "name": "Filmes | Adultos Lesb +18",
+            "originalName": "Filmes | Adultos Lesb +18",
+            "displayName": "Filmes | Adultos Lesb +18",
+            "hidden": false
+          },
+          {
+            "order": 39,
+            "key": "f_j9qsatimjx",
+            "id": "1000025",
+            "name": "Filmes | Adultos Trans +18",
+            "originalName": "Filmes | Adultos Trans +18",
+            "displayName": "Filmes | Adultos Trans +18",
+            "hidden": false
+          },
+          {
+            "order": 40,
+            "key": "f_be6a3kimjx",
+            "id": "1000022",
+            "name": "Filmes | Adultos Hentai +18",
+            "originalName": "Filmes | Adultos Hentai +18",
+            "displayName": "Filmes | Adultos Hentai +18",
+            "hidden": false
+          }
+        ],
+        "series": [
+          {
+            "order": 0,
+            "key": "f_ere1l3imjx",
+            "id": "1000079",
+            "name": "Séries / Disney+ / Marvel",
+            "originalName": "Séries / Disney+ / Marvel",
+            "displayName": "Séries / Disney+ / Marvel",
+            "hidden": false
+          },
+          {
+            "order": 1,
+            "key": "f_zl9kejimjx",
+            "id": "89",
+            "name": "Discovery+",
+            "originalName": "Discovery+",
+            "displayName": "Discovery+",
+            "hidden": false
+          },
+          {
+            "order": 2,
+            "key": "f_17ntp4imjx",
+            "id": "52",
+            "name": "Globoplay",
+            "originalName": "Globoplay",
+            "displayName": "Globoplay",
+            "hidden": false
+          },
+          {
+            "order": 3,
+            "key": "f_cfkqgsimjx",
+            "id": "3",
+            "name": "Netflix",
+            "originalName": "Netflix",
+            "displayName": "Netflix",
+            "hidden": false
+          },
+          {
+            "order": 4,
+            "key": "f_g11h6yimjx",
+            "id": "54",
+            "name": "Desenhos",
+            "originalName": "Desenhos",
+            "displayName": "Desenhos",
+            "hidden": false
+          },
+          {
+            "order": 5,
+            "key": "f_bbfw9oimjx",
+            "id": "56",
+            "name": "Novelas",
+            "originalName": "Novelas",
+            "displayName": "Novelas",
+            "hidden": false
+          },
+          {
+            "order": 6,
+            "key": "f_lgf1ngimjx",
+            "id": "1000081",
+            "name": "Séries / HBO Max / DC",
+            "originalName": "Séries / HBO Max / DC",
+            "displayName": "Séries / HBO Max / DC",
+            "hidden": false
+          },
+          {
+            "order": 7,
+            "key": "f_zzvzysimjx",
+            "id": "50",
+            "name": "Prime Video",
+            "originalName": "Prime Video",
+            "displayName": "Prime Video",
+            "hidden": false
+          },
+          {
+            "order": 8,
+            "key": "f_gxvyupimjx",
+            "id": "1000080",
+            "name": "Series / Look / Prime Video",
+            "originalName": "Series / Look / Prime Video",
+            "displayName": "Series / Look / Prime Video",
+            "hidden": false
+          },
+          {
+            "order": 9,
+            "key": "f_tscrxlimjx",
+            "id": "126",
+            "name": "Paramount",
+            "originalName": "Paramount",
+            "displayName": "Paramount",
+            "hidden": false
+          },
+          {
+            "order": 10,
+            "key": "f_ajkcbximjx",
+            "id": "127",
+            "name": "Apple TV",
+            "originalName": "Apple TV",
+            "displayName": "Apple TV",
+            "hidden": false
+          },
+          {
+            "order": 11,
+            "key": "f_lmwra6imjx",
+            "id": "49",
+            "name": "Diversas",
+            "originalName": "Diversas",
+            "displayName": "Diversas",
+            "hidden": false
+          },
+          {
+            "order": 12,
+            "key": "f_z5r9ndimjx",
+            "id": "1000031",
+            "name": "Novelas Mexicanas",
+            "originalName": "Novelas Mexicanas",
+            "displayName": "Novelas Mexicanas",
+            "hidden": false
+          },
+          {
+            "order": 13,
+            "key": "f_pbvkgmimjx",
+            "id": "113",
+            "name": "Novelas e Séries Turcas",
+            "originalName": "Novelas e Séries Turcas",
+            "displayName": "Novelas e Séries Turcas",
+            "hidden": false
+          },
+          {
+            "order": 14,
+            "key": "f_0ekghoimjx",
+            "id": "1000039",
+            "name": "Animação",
+            "originalName": "Animação",
+            "displayName": "Animação",
+            "hidden": false
+          },
+          {
+            "order": 15,
+            "key": "f_kca0dsimjx",
+            "id": "141",
+            "name": "Crunchyroll",
+            "originalName": "Crunchyroll",
+            "displayName": "Crunchyroll",
+            "hidden": false
+          },
+          {
+            "order": 16,
+            "key": "f_kqvn0dimjx",
+            "id": "1000078",
+            "name": "Séries / Animes / Donghuas",
+            "originalName": "Séries / Animes / Donghuas",
+            "displayName": "Séries / Animes / Donghuas",
+            "hidden": false
+          },
+          {
+            "order": 17,
+            "key": "f_ywpvqjimjy",
+            "id": "91",
+            "name": "National Geographic",
+            "originalName": "National Geographic",
+            "displayName": "National Geographic",
+            "hidden": false
+          },
+          {
+            "order": 18,
+            "key": "f_0e8h6aimjy",
+            "id": "1000068",
+            "name": "Doramas Dublados",
+            "originalName": "Doramas Dublados",
+            "displayName": "Doramas Dublados",
+            "hidden": false
+          },
+          {
+            "order": 19,
+            "key": "f_8mf855imjy",
+            "id": "1000069",
+            "name": "Doramas Legendados",
+            "originalName": "Doramas Legendados",
+            "displayName": "Doramas Legendados",
+            "hidden": false
+          },
+          {
+            "order": 20,
+            "key": "f_ed4o0jimjy",
+            "id": "117",
+            "name": "Legendado",
+            "originalName": "Legendado",
+            "displayName": "Legendado",
+            "hidden": false
+          },
+          {
+            "order": 21,
+            "key": "f_4vqoodimjy",
+            "id": "1000037",
+            "name": "Shows",
+            "originalName": "Shows",
+            "displayName": "Shows",
+            "hidden": false
+          },
+          {
+            "order": 22,
+            "key": "f_68ppgqimjy",
+            "id": "55",
+            "name": "Documentarios",
+            "originalName": "Documentarios",
+            "displayName": "Documentarios",
+            "hidden": false
+          },
+          {
+            "order": 23,
+            "key": "f_8hyr18imjy",
+            "id": "92",
+            "name": "Brasil Paralelo",
+            "originalName": "Brasil Paralelo",
+            "displayName": "Brasil Paralelo",
+            "hidden": false
+          },
+          {
+            "order": 24,
+            "key": "f_11w5dlimjy",
+            "id": "65",
+            "name": "Cursos / Aulas",
+            "originalName": "Cursos / Aulas",
+            "displayName": "Cursos / Aulas",
+            "hidden": false
+          },
+          {
+            "order": 25,
+            "key": "f_szku01imjy",
+            "id": "95",
+            "name": "Treine em Casa - Aulas",
+            "originalName": "Treine em Casa - Aulas",
+            "displayName": "Treine em Casa - Aulas",
+            "hidden": false
+          },
+          {
+            "order": 26,
+            "key": "f_xy2w34imjy",
+            "id": "1000032",
+            "name": "ReelShort - Mobile",
+            "originalName": "ReelShort - Mobile",
+            "displayName": "ReelShort - Mobile",
+            "hidden": false
+          },
+          {
+            "order": 27,
+            "key": "f_002rjwimjy",
+            "id": "1000033",
+            "name": "Lollapalooza Brasil 2025",
+            "originalName": "Lollapalooza Brasil 2025",
+            "displayName": "Lollapalooza Brasil 2025",
+            "hidden": false
+          },
+          {
+            "order": 28,
+            "key": "f_dak129imjy",
+            "id": "1000047",
+            "name": "Reality show / Programa de TV",
+            "originalName": "Reality show / Programa de TV",
+            "displayName": "Reality show / Programa de TV",
+            "hidden": false
+          },
+          {
+            "order": 29,
+            "key": "f_73c5kwimjy",
+            "id": "1000082",
+            "name": "Séries/Mercado Play/MUBI/Plex/YouTube/",
+            "originalName": "Séries/Mercado Play/MUBI/Plex/YouTube/",
+            "displayName": "Séries/Mercado Play/MUBI/Plex/YouTube/",
+            "hidden": false
+          }
+        ],
+        "live": [
+          {
+            "order": 0,
+            "key": "f_i7ki2aimjy",
+            "id": "112",
+            "name": "Canais | Jogos de hoje",
+            "originalName": "Canais | Jogos de hoje",
+            "displayName": "Canais | Jogos de hoje",
+            "hidden": false
+          },
+          {
+            "order": 1,
+            "key": "f_lr1pndimjy",
+            "id": "1000070",
+            "name": "Canais | Eventos",
+            "originalName": "Canais | Eventos",
+            "displayName": "Canais | Eventos",
+            "hidden": false
+          },
+          {
+            "order": 2,
+            "key": "f_4au2t5imjy",
+            "id": "1000071",
+            "name": "Canais | Reality",
+            "originalName": "Canais | Reality",
+            "displayName": "Canais | Reality",
+            "hidden": false
+          },
+          {
+            "order": 3,
+            "key": "f_90x97wimjy",
+            "id": "4",
+            "name": "Canais | Globo Sudeste",
+            "originalName": "Canais | Globo Sudeste",
+            "displayName": "Canais | Globo Sudeste",
+            "hidden": false
+          },
+          {
+            "order": 4,
+            "key": "f_pwspz8imjy",
+            "id": "8",
+            "name": "Canais | Globo Centro-Oeste",
+            "originalName": "Canais | Globo Centro-Oeste",
+            "displayName": "Canais | Globo Centro-Oeste",
+            "hidden": false
+          },
+          {
+            "order": 5,
+            "key": "f_t72q6himjy",
+            "id": "6",
+            "name": "Canais | Globo Sul",
+            "originalName": "Canais | Globo Sul",
+            "displayName": "Canais | Globo Sul",
+            "hidden": false
+          },
+          {
+            "order": 6,
+            "key": "f_b9hnitimjy",
+            "id": "7",
+            "name": "Canais | Globo Norte",
+            "originalName": "Canais | Globo Norte",
+            "displayName": "Canais | Globo Norte",
+            "hidden": false
+          },
+          {
+            "order": 7,
+            "key": "f_jfnx15imjy",
+            "id": "5",
+            "name": "Canais | Globo Nordeste",
+            "originalName": "Canais | Globo Nordeste",
+            "displayName": "Canais | Globo Nordeste",
+            "hidden": false
+          },
+          {
+            "order": 8,
+            "key": "f_4wrq9rimjy",
+            "id": "62",
+            "name": "Canais | 4K",
+            "originalName": "Canais | 4K",
+            "displayName": "Canais | 4K",
+            "hidden": false
+          },
+          {
+            "order": 9,
+            "key": "f_s7883oimjy",
+            "id": "10",
+            "name": "Canais | Record",
+            "originalName": "Canais | Record",
+            "displayName": "Canais | Record",
+            "hidden": false
+          },
+          {
+            "order": 10,
+            "key": "f_az2z77imjy",
+            "id": "109",
+            "name": "Canais | SBT",
+            "originalName": "Canais | SBT",
+            "displayName": "Canais | SBT",
+            "hidden": false
+          },
+          {
+            "order": 11,
+            "key": "f_3ca5y0imjy",
+            "id": "114",
+            "name": "Canais | Band",
+            "originalName": "Canais | Band",
+            "displayName": "Canais | Band",
+            "hidden": false
+          },
+          {
+            "order": 12,
+            "key": "f_8o11ccimjy",
+            "id": "11",
+            "name": "Canais | Abertos",
+            "originalName": "Canais | Abertos",
+            "displayName": "Canais | Abertos",
+            "hidden": false
+          },
+          {
+            "order": 13,
+            "key": "f_0rtghiimjy",
+            "id": "9",
+            "name": "Canais | Noticias",
+            "originalName": "Canais | Noticias",
+            "displayName": "Canais | Noticias",
+            "hidden": false
+          },
+          {
+            "order": 14,
+            "key": "f_hay0oximjy",
+            "id": "24",
+            "name": "Canais | Religiosos",
+            "originalName": "Canais | Religiosos",
+            "displayName": "Canais | Religiosos",
+            "hidden": false
+          },
+          {
+            "order": 15,
+            "key": "f_c83j1jimjy",
+            "id": "28",
+            "name": "Canais | Variedades",
+            "originalName": "Canais | Variedades",
+            "displayName": "Canais | Variedades",
+            "hidden": false
+          },
+          {
+            "order": 16,
+            "key": "f_nio5qkimjy",
+            "id": "1000016",
+            "name": "Canais | Legendados",
+            "originalName": "Canais | Legendados",
+            "displayName": "Canais | Legendados",
+            "hidden": false
+          },
+          {
+            "order": 17,
+            "key": "f_mitmx3imjy",
+            "id": "29",
+            "name": "Canais | Documentarios",
+            "originalName": "Canais | Documentarios",
+            "displayName": "Canais | Documentarios",
+            "hidden": false
+          },
+          {
+            "order": 18,
+            "key": "f_ao77tmimjy",
+            "id": "30",
+            "name": "Canais | Discovery",
+            "originalName": "Canais | Discovery",
+            "displayName": "Canais | Discovery",
+            "hidden": false
+          },
+          {
+            "order": 19,
+            "key": "f_i29kcjimjy",
+            "id": "23",
+            "name": "Canais | Infantil",
+            "originalName": "Canais | Infantil",
+            "displayName": "Canais | Infantil",
+            "hidden": false
+          },
+          {
+            "order": 20,
+            "key": "f_2u1g45imjy",
+            "id": "12",
+            "name": "Canais | Esportes",
+            "originalName": "Canais | Esportes",
+            "displayName": "Canais | Esportes",
+            "hidden": false
+          },
+          {
+            "order": 21,
+            "key": "f_8sqmafimjy",
+            "id": "13",
+            "name": "Canais | SporTV",
+            "originalName": "Canais | SporTV",
+            "displayName": "Canais | SporTV",
+            "hidden": false
+          },
+          {
+            "order": 22,
+            "key": "f_vpfqb7imjy",
+            "id": "15",
+            "name": "Canais | Premiere",
+            "originalName": "Canais | Premiere",
+            "displayName": "Canais | Premiere",
+            "hidden": false
+          },
+          {
+            "order": 23,
+            "key": "f_4cs19jimjy",
+            "id": "14",
+            "name": "Canais | ESPN",
+            "originalName": "Canais | ESPN",
+            "displayName": "Canais | ESPN",
+            "hidden": false
+          },
+          {
+            "order": 24,
+            "key": "f_kqb0n6imjy",
+            "id": "69",
+            "name": "Canais | HBO MAX",
+            "originalName": "Canais | HBO MAX",
+            "displayName": "Canais | HBO MAX",
+            "hidden": false
+          },
+          {
+            "order": 25,
+            "key": "f_z4wj2qimjy",
+            "id": "70",
+            "name": "Canais | Disney Sports",
+            "originalName": "Canais | Disney Sports",
+            "displayName": "Canais | Disney Sports",
+            "hidden": false
+          },
+          {
+            "order": 26,
+            "key": "f_3rk7dbimjy",
+            "id": "67",
+            "name": "Canais | Sport World",
+            "originalName": "Canais | Sport World",
+            "displayName": "Canais | Sport World",
+            "hidden": false
+          },
+          {
+            "order": 27,
+            "key": "f_s30tvximjy",
+            "id": "16",
+            "name": "Canais | Pay-per-view",
+            "originalName": "Canais | Pay-per-view",
+            "displayName": "Canais | Pay-per-view",
+            "hidden": false
+          },
+          {
+            "order": 28,
+            "key": "f_q0s6wrimjy",
+            "id": "105",
+            "name": "Canais | Campeonatos",
+            "originalName": "Canais | Campeonatos",
+            "displayName": "Canais | Campeonatos",
+            "hidden": false
+          },
+          {
+            "order": 29,
+            "key": "f_56ya9iimjy",
+            "id": "80",
+            "name": "Canais | USA NFL Gamepass",
+            "originalName": "Canais | USA NFL Gamepass",
+            "displayName": "Canais | USA NFL Gamepass",
+            "hidden": false
+          },
+          {
+            "order": 30,
+            "key": "f_d56hqtimjy",
+            "id": "79",
+            "name": "Canais | NBA League Pass",
+            "originalName": "Canais | NBA League Pass",
+            "displayName": "Canais | NBA League Pass",
+            "hidden": false
+          },
+          {
+            "order": 31,
+            "key": "f_8kf60uimjy",
+            "id": "1000029",
+            "name": "Canais | Amazon Prime",
+            "originalName": "Canais | Amazon Prime",
+            "displayName": "Canais | Amazon Prime",
+            "hidden": false
+          },
+          {
+            "order": 32,
+            "key": "f_exyo9wimjy",
+            "id": "76",
+            "name": "Canais | Paramount +",
+            "originalName": "Canais | Paramount +",
+            "displayName": "Canais | Paramount +",
+            "hidden": false
+          },
+          {
+            "order": 33,
+            "key": "f_63904rimjy",
+            "id": "18",
+            "name": "Canais | Filmes & Series",
+            "originalName": "Canais | Filmes & Series",
+            "displayName": "Canais | Filmes & Series",
+            "hidden": false
+          },
+          {
+            "order": 34,
+            "key": "f_a1n1w2imjy",
+            "id": "20",
+            "name": "Canais | Telecine",
+            "originalName": "Canais | Telecine",
+            "displayName": "Canais | Telecine",
+            "hidden": false
+          },
+          {
+            "order": 35,
+            "key": "f_jzv6upimjy",
+            "id": "22",
+            "name": "Canais | HBO",
+            "originalName": "Canais | HBO",
+            "displayName": "Canais | HBO",
+            "hidden": false
+          },
+          {
+            "order": 36,
+            "key": "f_1oefubimjy",
+            "id": "21",
+            "name": "Canais | Cine Sky",
+            "originalName": "Canais | Cine Sky",
+            "displayName": "Canais | Cine Sky",
+            "hidden": false
+          },
+          {
+            "order": 37,
+            "key": "f_g55k43imjy",
+            "id": "26",
+            "name": "Canais | Filmes 24 horas",
+            "originalName": "Canais | Filmes 24 horas",
+            "displayName": "Canais | Filmes 24 horas",
+            "hidden": false
+          },
+          {
+            "order": 38,
+            "key": "f_nrvyf9imjy",
+            "id": "100",
+            "name": "Canais | Dc Comics 24 Horas",
+            "originalName": "Canais | Dc Comics 24 Horas",
+            "displayName": "Canais | Dc Comics 24 Horas",
+            "hidden": false
+          },
+          {
+            "order": 39,
+            "key": "f_33b3p5imjy",
+            "id": "99",
+            "name": "Canais | Marvel 24 Horas",
+            "originalName": "Canais | Marvel 24 Horas",
+            "displayName": "Canais | Marvel 24 Horas",
+            "hidden": false
+          },
+          {
+            "order": 40,
+            "key": "f_626boiimjy",
+            "id": "25",
+            "name": "Canais | Desenhos 24 horas",
+            "originalName": "Canais | Desenhos 24 horas",
+            "displayName": "Canais | Desenhos 24 horas",
+            "hidden": false
+          },
+          {
+            "order": 41,
+            "key": "f_29334jimjy",
+            "id": "102",
+            "name": "Canais | Shows 24H",
+            "originalName": "Canais | Shows 24H",
+            "displayName": "Canais | Shows 24H",
+            "hidden": false
+          },
+          {
+            "order": 42,
+            "key": "f_214e79imjy",
+            "id": "64",
+            "name": "Canais | United States",
+            "originalName": "Canais | United States",
+            "displayName": "Canais | United States",
+            "hidden": false
+          },
+          {
+            "order": 43,
+            "key": "f_08t055imjy",
+            "id": "1000040",
+            "name": "Canais | PT Eleven Sport",
+            "originalName": "Canais | PT Eleven Sport",
+            "displayName": "Canais | PT Eleven Sport",
+            "hidden": false
+          },
+          {
+            "order": 44,
+            "key": "f_d6ybq3imjy",
+            "id": "63",
+            "name": "Canais | Portugal",
+            "originalName": "Canais | Portugal",
+            "displayName": "Canais | Portugal",
+            "hidden": false
+          },
+          {
+            "order": 45,
+            "key": "f_qe2unfimjy",
+            "id": "1000011",
+            "name": "Canais | Uruguay",
+            "originalName": "Canais | Uruguay",
+            "displayName": "Canais | Uruguay",
+            "hidden": false
+          },
+          {
+            "order": 46,
+            "key": "f_0azqyaimjy",
+            "id": "110",
+            "name": "Canais | Latinos",
+            "originalName": "Canais | Latinos",
+            "displayName": "Canais | Latinos",
+            "hidden": false
+          },
+          {
+            "order": 47,
+            "key": "f_t62e9aimjy",
+            "id": "81",
+            "name": "Canais | Italia",
+            "originalName": "Canais | Italia",
+            "displayName": "Canais | Italia",
+            "hidden": false
+          },
+          {
+            "order": 48,
+            "key": "f_vvwofvimjy",
+            "id": "1000030",
+            "name": "Canais | França",
+            "originalName": "Canais | França",
+            "displayName": "Canais | França",
+            "hidden": false
+          },
+          {
+            "order": 49,
+            "key": "f_sudl13imjy",
+            "id": "1000059",
+            "name": "Canais | Espanha",
+            "originalName": "Canais | Espanha",
+            "displayName": "Canais | Espanha",
+            "hidden": false
+          },
+          {
+            "order": 50,
+            "key": "f_ghhgp4imjy",
+            "id": "27",
+            "name": "Canais | Adultos +18",
+            "originalName": "Canais | Adultos +18",
+            "displayName": "Canais | Adultos +18",
+            "hidden": false
+          },
+          {
+            "order": 51,
+            "key": "f_o5au4vimjy",
+            "id": "82",
+            "name": "Canais | Adultos +18 LGBT",
+            "originalName": "Canais | Adultos +18 LGBT",
+            "displayName": "Canais | Adultos +18 LGBT",
+            "hidden": false
+          }
+        ]
+      }
+    }
+  ]
+}
