@@ -1,6 +1,6 @@
 {
   "schema": 4,
-  "updatedAt": 1795480391952,
+  "updatedAt": 1795480440384,
   "servers": [
     {
       "id": "srv_pn2n58hkvv",
@@ -11,7 +11,7 @@
       "enabled": true,
       "isOpenServer": false,
       "lockFolders": true,
-      "updatedAt": 1795480391952,
+      "updatedAt": 1795480440384,
       "folders": {
         "movies": [
           {
@@ -2282,7 +2282,7 @@
       "enabled": true,
       "isOpenServer": true,
       "lockFolders": true,
-      "updatedAt": 1795480391952,
+      "updatedAt": 1795480440384,
       "folders": {
         "movies": [
           {
@@ -2616,7 +2616,7 @@
       "enabled": true,
       "isOpenServer": false,
       "lockFolders": true,
-      "updatedAt": 1795480391952,
+      "updatedAt": 1795480440384,
       "folders": {
         "movies": [
           {
@@ -3562,7 +3562,7 @@
       "enabled": true,
       "isOpenServer": false,
       "lockFolders": true,
-      "updatedAt": 1795480391952,
+      "updatedAt": 1795480440384,
       "folders": {
         "movies": [
           {
