@@ -1,9 +1,9 @@
 {
   "schemaVersion": 4,
-  "updatedAt": 1795480629062,
+  "updatedAt": 1795542824748,
   "settings": {
     "schema": 4,
-    "updatedAt": 1795480629062,
+    "updatedAt": 1795542824748,
     "appName": "i9 Player",
     "blockedMessage": "Aviso! Por gentileza, contate o administrador.",
     "pendingMessage": "Seu aparelho aguarda liberação do administrador.",
@@ -20,6 +20,7 @@
       "logoPreset": "custom",
       "customLogoUrl": "https://i.ibb.co/fVyW0YLr/logo-i9player-1.png"
     },
+    "tmdbApiKey": "1f35cf648074790c261ed946a2c309a7",
     "otaPublicRepo": "inovecabo/i9-player-ota",
     "otaPublicBaseUrl": "https://raw.githubusercontent.com/inovecabo/i9-player-ota/main/remote/v4",
     "remoteCacheClearAt": 1792722021413
@@ -34,7 +35,7 @@
       "enabled": true,
       "isOpenServer": false,
       "lockFolders": true,
-      "updatedAt": 1795480629062,
+      "updatedAt": 1795542824748,
       "folders": {
         "movies": [
           {
@@ -2305,7 +2306,7 @@
       "enabled": true,
       "isOpenServer": true,
       "lockFolders": true,
-      "updatedAt": 1795480629062,
+      "updatedAt": 1795542824748,
       "folders": {
         "movies": [
           {
@@ -2639,7 +2640,7 @@
       "enabled": true,
       "isOpenServer": false,
       "lockFolders": true,
-      "updatedAt": 1795480629062,
+      "updatedAt": 1795542824748,
       "folders": {
         "movies": [
           {
@@ -3585,7 +3586,7 @@
       "enabled": true,
       "isOpenServer": false,
       "lockFolders": true,
-      "updatedAt": 1795480629062,
+      "updatedAt": 1795542824748,
       "folders": {
         "movies": [
           {
@@ -4718,48 +4719,48 @@
     {
       "mac": "00:E0:B4:3A:6E:2C",
       "status": "allowed",
-      "serverHost": "ooo.fo",
       "mode": "credentials",
+      "serverHost": "ooo.fo",
       "remoteCacheClearAt": 1795480499681,
       "updatedAt": 1792900055152
     },
     {
       "mac": "00:E0:B4:9A:CB:8E",
       "status": "allowed",
-      "serverHost": "ooo.fo",
       "mode": "credentials",
+      "serverHost": "ooo.fo",
       "remoteCacheClearAt": 1792794330020,
       "updatedAt": 1795287115072
     },
     {
       "mac": "00:E0:B4:EE:4E:B4",
       "status": "allowed",
-      "serverHost": "ooo.fo",
       "mode": "credentials",
+      "serverHost": "ooo.fo",
       "remoteCacheClearAt": 1792722021413,
       "updatedAt": 1792789647021
     },
     {
       "mac": "00:DB:DB:FA:E2:FF",
       "status": "allowed",
-      "serverHost": "ooo.fo",
       "mode": "credentials",
+      "serverHost": "ooo.fo",
       "remoteCacheClearAt": 1792722021413,
       "updatedAt": 1793679160220
     },
     {
       "mac": "E8:35:59:A9:59:3E",
       "status": "allowed",
-      "serverHost": "ooo.fo",
       "mode": "credentials",
+      "serverHost": "ooo.fo",
       "remoteCacheClearAt": 1792722021413,
       "updatedAt": 1795310639679
     },
     {
       "mac": "9C:8A:AB:03:30:64",
       "status": "allowed",
-      "serverHost": "ooo.fo",
       "mode": "credentials",
+      "serverHost": "ooo.fo",
       "updatedAt": 1793291764755
     }
   ],
