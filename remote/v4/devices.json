@@ -1,10 +1,10 @@
 {
   "schema": 4,
-  "updatedAt": 1795480391952,
+  "updatedAt": 1795480440384,
   "devices": [
     {
       "mac": "00:E0:B4:3A:6E:2C",
-      "status": "allowed",
+      "status": "blocked",
       "serverHost": "ooo.fo",
       "mode": "credentials",
       "remoteCacheClearAt": 1792722021413,
