@@ -1,9 +1,9 @@
 {
   "schemaVersion": 4,
-  "updatedAt": 1795480440384,
+  "updatedAt": 1795480501320,
   "settings": {
     "schema": 4,
-    "updatedAt": 1795480440384,
+    "updatedAt": 1795480501320,
     "appName": "i9 Player",
     "blockedMessage": "Aviso! Por gentileza, contate o administrador.",
     "pendingMessage": "Seu aparelho aguarda liberação do administrador.",
@@ -34,7 +34,7 @@
       "enabled": true,
       "isOpenServer": false,
       "lockFolders": true,
-      "updatedAt": 1795480440384,
+      "updatedAt": 1795480501320,
       "folders": {
         "movies": [
           {
@@ -2305,7 +2305,7 @@
       "enabled": true,
       "isOpenServer": true,
       "lockFolders": true,
-      "updatedAt": 1795480440384,
+      "updatedAt": 1795480501320,
       "folders": {
         "movies": [
           {
@@ -2639,7 +2639,7 @@
       "enabled": true,
       "isOpenServer": false,
       "lockFolders": true,
-      "updatedAt": 1795480440384,
+      "updatedAt": 1795480501320,
       "folders": {
         "movies": [
           {
@@ -3585,7 +3585,7 @@
       "enabled": true,
       "isOpenServer": false,
       "lockFolders": true,
-      "updatedAt": 1795480440384,
+      "updatedAt": 1795480501320,
       "folders": {
         "movies": [
           {
@@ -4717,10 +4717,10 @@
   "devices": [
     {
       "mac": "00:E0:B4:3A:6E:2C",
-      "status": "blocked",
+      "status": "allowed",
       "serverHost": "ooo.fo",
       "mode": "credentials",
-      "remoteCacheClearAt": 1792722021413,
+      "remoteCacheClearAt": 1795480499681,
       "updatedAt": 1792900055152
     },
     {
