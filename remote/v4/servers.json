@@ -1,6 +1,6 @@
 {
   "schema": 4,
-  "updatedAt": 1795480501320,
+  "updatedAt": 1795480629062,
   "servers": [
     {
       "id": "srv_pn2n58hkvv",
@@ -11,7 +11,7 @@
       "enabled": true,
       "isOpenServer": false,
       "lockFolders": true,
-      "updatedAt": 1795480501320,
+      "updatedAt": 1795480629062,
       "folders": {
         "movies": [
           {
@@ -26,22 +26,22 @@
           },
           {
             "order": 1,
-            "key": "f_1q9imvukzk",
-            "id": "14226",
-            "name": "★RC | Apple TV+",
-            "originalName": "★RC | Apple TV+",
-            "alias": "Apple TV+",
-            "displayName": "Apple TV+",
-            "hidden": false
-          },
-          {
-            "order": 2,
             "key": "f_1bzg71ukzk",
             "id": "14223",
             "name": "★RC | Amazon Prime Video",
             "originalName": "★RC | Amazon Prime Video",
             "alias": "Amazon Prime Video",
             "displayName": "Amazon Prime Video",
+            "hidden": false
+          },
+          {
+            "order": 2,
+            "key": "f_1q9imvukzk",
+            "id": "14226",
+            "name": "★RC | Apple TV+",
+            "originalName": "★RC | Apple TV+",
+            "alias": "Apple TV+",
+            "displayName": "Apple TV+",
             "hidden": false
           },
           {
@@ -2282,7 +2282,7 @@
       "enabled": true,
       "isOpenServer": true,
       "lockFolders": true,
-      "updatedAt": 1795480501320,
+      "updatedAt": 1795480629062,
       "folders": {
         "movies": [
           {
@@ -2616,7 +2616,7 @@
       "enabled": true,
       "isOpenServer": false,
       "lockFolders": true,
-      "updatedAt": 1795480501320,
+      "updatedAt": 1795480629062,
       "folders": {
         "movies": [
           {
@@ -3562,7 +3562,7 @@
       "enabled": true,
       "isOpenServer": false,
       "lockFolders": true,
-      "updatedAt": 1795480501320,
+      "updatedAt": 1795480629062,
       "folders": {
         "movies": [
           {
