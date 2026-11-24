@@ -1,0 +1,23 @@
+{
+  "schema": 4,
+  "updatedAt": 1795480377481,
+  "appName": "i9 Player",
+  "blockedMessage": "Aviso! Por gentileza, contate o administrador.",
+  "pendingMessage": "Seu aparelho aguarda liberação do administrador.",
+  "newDevicePolicy": "allow",
+  "maintenance": {
+    "enabled": false,
+    "message": "Estamos em manutenção. Voltamos em breve!"
+  },
+  "announcement": {
+    "enabled": false,
+    "message": ""
+  },
+  "branding": {
+    "logoPreset": "custom",
+    "customLogoUrl": "https://i.ibb.co/fVyW0YLr/logo-i9player-1.png"
+  },
+  "otaPublicRepo": "inovecabo/i9-player-ota",
+  "otaPublicBaseUrl": "https://raw.githubusercontent.com/inovecabo/i9-player-ota/main/remote/v4",
+  "remoteCacheClearAt": 1792722021413
+}
